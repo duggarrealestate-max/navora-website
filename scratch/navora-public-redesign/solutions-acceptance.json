@@ -1,0 +1,26 @@
+{
+  "desktop": {
+    "status": 200,
+    "width": 1440,
+    "errors": [],
+    "stages": 7,
+    "active": "See what happened. Improve what happens next.",
+    "menu": null
+  },
+  "mobile": {
+    "status": 200,
+    "width": 390,
+    "errors": [],
+    "stages": 7,
+    "active": "See what happened. Improve what happens next.",
+    "menu": {
+      "open": true,
+      "visible": true,
+      "closed": true
+    }
+  },
+  "reducedMotion": {
+    "playDisabled": true,
+    "text": true
+  }
+}

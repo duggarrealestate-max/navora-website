@@ -1,0 +1,113 @@
+{
+  "desktop": {
+    "scenarios": 8,
+    "approvalPaths": 8,
+    "escalationPaths": 8,
+    "scannerConfigurations": 90,
+    "principles": 6,
+    "productionStages": [
+      "01\nUnderstand",
+      "02\nMap",
+      "03\nDesign",
+      "04\nBuild",
+      "05\nConnect",
+      "06\nLaunch",
+      "07\nImprove"
+    ],
+    "form": "empty, invalid, loading, success, reset passed",
+    "errors": []
+  },
+  "mobile": {
+    "scenarios": 8,
+    "approvalPaths": 8,
+    "escalationPaths": 8,
+    "scannerConfigurations": 90,
+    "principles": 6,
+    "productionStages": [
+      "01\nUnderstand",
+      "02\nMap",
+      "03\nDesign",
+      "04\nBuild",
+      "05\nConnect",
+      "06\nLaunch",
+      "07\nImprove"
+    ],
+    "form": "empty, invalid, loading, success, reset passed",
+    "errors": []
+  },
+  "response-error": {
+    "retained": true,
+    "focused": true,
+    "retryEnabled": true
+  },
+  "exception": {
+    "retained": true,
+    "focused": true,
+    "retryEnabled": true
+  },
+  "reduced": [
+    {
+      "route": "solutions",
+      "activeAnimations": 0
+    },
+    {
+      "route": "industries",
+      "activeAnimations": 0
+    },
+    {
+      "route": "how-it-works",
+      "activeAnimations": 0
+    },
+    {
+      "route": "about",
+      "activeAnimations": 0
+    },
+    {
+      "route": "contact",
+      "activeAnimations": 0
+    },
+    {
+      "route": "privacy",
+      "activeAnimations": 0
+    },
+    {
+      "route": "terms",
+      "activeAnimations": 0
+    },
+    {
+      "route": "missing-route",
+      "activeAnimations": 0
+    }
+  ],
+  "protected": [
+    {
+      "route": "command-centre",
+      "title": [
+        "Command Centre"
+      ],
+      "clicked": "Open Co-Pilot →",
+      "errors": []
+    },
+    {
+      "route": "retailer",
+      "title": [
+        "Cart"
+      ],
+      "clicked": "",
+      "errors": []
+    },
+    {
+      "route": "discovery",
+      "title": [
+        "TradePilot Business Discovery"
+      ],
+      "clicked": "Load Example Business",
+      "errors": []
+    }
+  ],
+  "home": {
+    "zones": 7,
+    "canvas": 1,
+    "returnNavigation": true
+  }
+}

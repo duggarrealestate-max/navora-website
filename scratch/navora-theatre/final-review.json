@@ -1,0 +1,17 @@
+{
+  "depth": "matrix3d(0.999688, 0, -0.0249891, 0, -0.000606575, 0.999705, -0.024266, 0, 0.0249818, 0.0242736, 0.999393, 0, 0, 0, 0, 1)",
+  "signalTravel": {
+    "a": "translate(325.04608154296875 190)",
+    "z": "translate(369.3553771972656 220)"
+  },
+  "desktop": {
+    "offscreenPaused": true,
+    "touch": false,
+    "reducedAtLoad": true
+  },
+  "mobile": {
+    "offscreenPaused": true,
+    "touch": true,
+    "reducedAtLoad": true
+  }
+}

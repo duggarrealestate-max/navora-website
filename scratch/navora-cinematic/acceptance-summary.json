@@ -1,0 +1,19 @@
+{
+    "Desktop":  "1440x1000",
+    "Mobile":  "390x844",
+    "AutomaticScenariosDesktop":  6,
+    "AutomaticScenariosMobile":  6,
+    "ScrollScenes":  6,
+    "WorkflowPhases":  7,
+    "ConsoleErrorsFinal":  0,
+    "FailedAssetsFinal":  0,
+    "HorizontalOverflow":  false,
+    "PanelCopyOverlap":  false,
+    "OperationalPanels":  1,
+    "ReducedGeometryStatic":  true,
+    "KeyboardTabEnter":  true,
+    "NavoraLint":  "pass",
+    "NavoraTypecheck":  "pass",
+    "ProductionBuild":  "pass",
+    "ProtectedSourceUnchanged":  true
+}

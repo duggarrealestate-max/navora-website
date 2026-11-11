@@ -1,0 +1,1986 @@
+[
+  {
+    "device": "desktop",
+    "route": "/",
+    "status": 200,
+    "initial": {
+      "title": "Navora — Intelligent Business Systems",
+      "textLength": 3094,
+      "headings": [
+        "WE BUILD FOR THE FUTURE."
+      ],
+      "width": 1440,
+      "scrollWidth": 1440,
+      "missingImages": [],
+      "canvasCount": 1,
+      "overflow": []
+    },
+    "scrolls": [
+      {
+        "fraction": 0.3,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 3105,
+        "headings": [
+          "WE BUILD FOR THE FUTURE."
+        ],
+        "width": 1440,
+        "scrollWidth": 1440,
+        "missingImages": [],
+        "canvasCount": 1,
+        "overflow": []
+      },
+      {
+        "fraction": 0.65,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 3105,
+        "headings": [
+          "WE BUILD FOR THE FUTURE."
+        ],
+        "width": 1440,
+        "scrollWidth": 1440,
+        "missingImages": [],
+        "canvasCount": 1,
+        "overflow": []
+      },
+      {
+        "fraction": 1,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 3105,
+        "headings": [
+          "WE BUILD FOR THE FUTURE."
+        ],
+        "width": 1440,
+        "scrollWidth": 1440,
+        "missingImages": [],
+        "canvasCount": 1,
+        "overflow": []
+      },
+      {
+        "fraction": 0,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 3105,
+        "headings": [
+          "WE BUILD FOR THE FUTURE."
+        ],
+        "width": 1440,
+        "scrollWidth": 1440,
+        "missingImages": [],
+        "canvasCount": 1,
+        "overflow": []
+      }
+    ],
+    "navigation": "http://127.0.0.1:3000/solutions",
+    "errors": [],
+    "warnings": [
+      "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+      "THREE.WebGLProgram: Program Info Log: (210,81-129): warning X4122: sum of 0.996094 and -2.98545e-017 cannot be represented accurately in double precision\n(209,37-61): warning X4122: sum of 1 and -1.49272e-017 cannot be represented accurately in double precision\n(210,82-106): warning X4122: sum of 1 and -1.49272e-017 cannot be represented accurately in double precision\n(209,37-61): warning X4122: sum of 1 and -1.66644e-018 cannot be represented accurately in double precision\n(210,82-106): warning X4122: sum of 1 and -1.66644e-018 cannot be represented accurately in double precision\n\n\n\u0000"
+    ],
+    "failed": [],
+    "badResponses": []
+  },
+  {
+    "device": "desktop",
+    "route": "/solutions",
+    "status": 200,
+    "initial": {
+      "title": "Navora — Intelligent Business Systems",
+      "textLength": 2228,
+      "headings": [
+        "We build connected digital systems"
+      ],
+      "width": 1440,
+      "scrollWidth": 1440,
+      "missingImages": [],
+      "canvasCount": 0,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "cls": "absolute pointer-events-none top-20 -right-20 opacity-40",
+          "right": 1520
+        },
+        {
+          "tag": "DIV",
+          "cls": "absolute pointer-events-none top-40 -left-32 opacity-40",
+          "right": 322
+        }
+      ]
+    },
+    "scrolls": [
+      {
+        "fraction": 0.3,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2228,
+        "headings": [
+          "We build connected digital systems"
+        ],
+        "width": 1440,
+        "scrollWidth": 1440,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-20 -right-20 opacity-40",
+            "right": 1520
+          },
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-40 -left-32 opacity-40",
+            "right": 322
+          }
+        ]
+      },
+      {
+        "fraction": 0.65,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2228,
+        "headings": [
+          "We build connected digital systems"
+        ],
+        "width": 1440,
+        "scrollWidth": 1440,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-20 -right-20 opacity-40",
+            "right": 1520
+          },
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-40 -left-32 opacity-40",
+            "right": 322
+          }
+        ]
+      },
+      {
+        "fraction": 1,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2228,
+        "headings": [
+          "We build connected digital systems"
+        ],
+        "width": 1440,
+        "scrollWidth": 1440,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-20 -right-20 opacity-40",
+            "right": 1520
+          },
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-40 -left-32 opacity-40",
+            "right": 322
+          }
+        ]
+      },
+      {
+        "fraction": 0,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2228,
+        "headings": [
+          "We build connected digital systems"
+        ],
+        "width": 1440,
+        "scrollWidth": 1440,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-20 -right-20 opacity-40",
+            "right": 1520
+          },
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-40 -left-32 opacity-40",
+            "right": 322
+          }
+        ]
+      }
+    ],
+    "navigation": "http://127.0.0.1:3000/industries",
+    "errors": [],
+    "warnings": [],
+    "failed": [],
+    "badResponses": []
+  },
+  {
+    "device": "desktop",
+    "route": "/industries",
+    "status": 200,
+    "initial": {
+      "title": "Navora — Intelligent Business Systems",
+      "textLength": 1959,
+      "headings": [],
+      "width": 1440,
+      "scrollWidth": 1520,
+      "missingImages": [],
+      "canvasCount": 0,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "cls": "absolute pointer-events-none top-10 -right-20 opacity-30",
+          "right": 1520
+        }
+      ]
+    },
+    "scrolls": [
+      {
+        "fraction": 0.3,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 1959,
+        "headings": [],
+        "width": 1440,
+        "scrollWidth": 1520,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-10 -right-20 opacity-30",
+            "right": 1520
+          }
+        ]
+      },
+      {
+        "fraction": 0.65,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 1959,
+        "headings": [],
+        "width": 1440,
+        "scrollWidth": 1520,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-10 -right-20 opacity-30",
+            "right": 1520
+          }
+        ]
+      },
+      {
+        "fraction": 1,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 1959,
+        "headings": [],
+        "width": 1440,
+        "scrollWidth": 1520,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-10 -right-20 opacity-30",
+            "right": 1520
+          }
+        ]
+      },
+      {
+        "fraction": 0,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 1959,
+        "headings": [],
+        "width": 1440,
+        "scrollWidth": 1520,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-10 -right-20 opacity-30",
+            "right": 1520
+          }
+        ]
+      }
+    ],
+    "navigation": "http://127.0.0.1:3000/solutions",
+    "errors": [],
+    "warnings": [],
+    "failed": [],
+    "badResponses": []
+  },
+  {
+    "device": "desktop",
+    "route": "/how-it-works",
+    "status": 200,
+    "initial": {
+      "title": "Navora — Intelligent Business Systems",
+      "textLength": 2459,
+      "headings": [],
+      "width": 1440,
+      "scrollWidth": 1520,
+      "missingImages": [],
+      "canvasCount": 0,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "cls": "absolute pointer-events-none top-10 -right-20 opacity-30",
+          "right": 1520
+        }
+      ]
+    },
+    "scrolls": [
+      {
+        "fraction": 0.3,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2459,
+        "headings": [],
+        "width": 1440,
+        "scrollWidth": 1520,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-10 -right-20 opacity-30",
+            "right": 1520
+          }
+        ]
+      },
+      {
+        "fraction": 0.65,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2459,
+        "headings": [],
+        "width": 1440,
+        "scrollWidth": 1520,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-10 -right-20 opacity-30",
+            "right": 1520
+          }
+        ]
+      },
+      {
+        "fraction": 1,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2459,
+        "headings": [],
+        "width": 1440,
+        "scrollWidth": 1520,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-10 -right-20 opacity-30",
+            "right": 1520
+          }
+        ]
+      },
+      {
+        "fraction": 0,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2459,
+        "headings": [],
+        "width": 1440,
+        "scrollWidth": 1520,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-10 -right-20 opacity-30",
+            "right": 1520
+          }
+        ]
+      }
+    ],
+    "navigation": "http://127.0.0.1:3000/solutions",
+    "errors": [],
+    "warnings": [],
+    "failed": [],
+    "badResponses": []
+  },
+  {
+    "device": "desktop",
+    "route": "/about",
+    "status": 200,
+    "initial": {
+      "title": "Navora — Intelligent Business Systems",
+      "textLength": 2237,
+      "headings": [
+        "The beginning of a new era."
+      ],
+      "width": 1440,
+      "scrollWidth": 1520,
+      "missingImages": [],
+      "canvasCount": 0,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "cls": "absolute pointer-events-none top-20 -right-20 opacity-40",
+          "right": 1520
+        },
+        {
+          "tag": "DIV",
+          "cls": "absolute pointer-events-none top-20 -left-20 opacity-30",
+          "right": 320
+        }
+      ]
+    },
+    "scrolls": [
+      {
+        "fraction": 0.3,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2237,
+        "headings": [
+          "The beginning of a new era."
+        ],
+        "width": 1440,
+        "scrollWidth": 1520,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-20 -right-20 opacity-40",
+            "right": 1520
+          },
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-20 -left-20 opacity-30",
+            "right": 320
+          }
+        ]
+      },
+      {
+        "fraction": 0.65,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2237,
+        "headings": [
+          "The beginning of a new era."
+        ],
+        "width": 1440,
+        "scrollWidth": 1520,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-20 -right-20 opacity-40",
+            "right": 1520
+          },
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-20 -left-20 opacity-30",
+            "right": 320
+          }
+        ]
+      },
+      {
+        "fraction": 1,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2237,
+        "headings": [
+          "The beginning of a new era."
+        ],
+        "width": 1440,
+        "scrollWidth": 1520,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-20 -right-20 opacity-40",
+            "right": 1520
+          },
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-20 -left-20 opacity-30",
+            "right": 320
+          }
+        ]
+      },
+      {
+        "fraction": 0,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2237,
+        "headings": [
+          "The beginning of a new era."
+        ],
+        "width": 1440,
+        "scrollWidth": 1520,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-20 -right-20 opacity-40",
+            "right": 1520
+          },
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-20 -left-20 opacity-30",
+            "right": 320
+          }
+        ]
+      }
+    ],
+    "navigation": "http://127.0.0.1:3000/solutions",
+    "errors": [],
+    "warnings": [],
+    "failed": [],
+    "badResponses": []
+  },
+  {
+    "device": "desktop",
+    "route": "/contact",
+    "status": 200,
+    "initial": {
+      "title": "Navora — Intelligent Business Systems",
+      "textLength": 1164,
+      "headings": [
+        "Let us design a system around your business."
+      ],
+      "width": 1440,
+      "scrollWidth": 1440,
+      "missingImages": [],
+      "canvasCount": 0,
+      "overflow": []
+    },
+    "scrolls": [
+      {
+        "fraction": 0.3,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 1164,
+        "headings": [
+          "Let us design a system around your business."
+        ],
+        "width": 1440,
+        "scrollWidth": 1440,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 0.65,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 1164,
+        "headings": [
+          "Let us design a system around your business."
+        ],
+        "width": 1440,
+        "scrollWidth": 1440,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 1,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 1164,
+        "headings": [
+          "Let us design a system around your business."
+        ],
+        "width": 1440,
+        "scrollWidth": 1440,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 0,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 1164,
+        "headings": [
+          "Let us design a system around your business."
+        ],
+        "width": 1440,
+        "scrollWidth": 1440,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      }
+    ],
+    "navigation": "http://127.0.0.1:3000/solutions",
+    "errors": [],
+    "warnings": [],
+    "failed": [],
+    "badResponses": []
+  },
+  {
+    "device": "desktop",
+    "route": "/command-centre",
+    "status": 200,
+    "initial": {
+      "title": "Navora — Intelligent Business Systems",
+      "textLength": 3078,
+      "headings": [
+        "Command Centre"
+      ],
+      "width": 1440,
+      "scrollWidth": 1440,
+      "missingImages": [],
+      "canvasCount": 0,
+      "overflow": []
+    },
+    "scrolls": [
+      {
+        "fraction": 0.3,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 3078,
+        "headings": [
+          "Command Centre"
+        ],
+        "width": 1440,
+        "scrollWidth": 1440,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 0.65,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 3078,
+        "headings": [
+          "Command Centre"
+        ],
+        "width": 1440,
+        "scrollWidth": 1440,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 1,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 3078,
+        "headings": [
+          "Command Centre"
+        ],
+        "width": 1440,
+        "scrollWidth": 1440,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 0,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 3078,
+        "headings": [
+          "Command Centre"
+        ],
+        "width": 1440,
+        "scrollWidth": 1440,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      }
+    ],
+    "navigation": "http://127.0.0.1:3000/commerce",
+    "errors": [
+      "Error: <path> attribute d: Expected number, \"….3-.76.64-1.11 1--.33.36-.68.71-…\".",
+      "Error: <path> attribute d: Expected number, \"….03-.33-2.82-.88.-.32-.56-.53-.9…\".",
+      "Each child in a list should have a unique \"key\" prop.%s%s See https://react.dev/link/warning-keys for more information. \n\nCheck the render method of `ChartLine`. "
+    ],
+    "warnings": [],
+    "failed": [],
+    "badResponses": []
+  },
+  {
+    "device": "desktop",
+    "route": "/retailer",
+    "status": 200,
+    "initial": {
+      "title": "Navora — Intelligent Business Systems",
+      "textLength": 878,
+      "headings": [
+        "Good morning, ABC Mobiles"
+      ],
+      "width": 1440,
+      "scrollWidth": 1440,
+      "missingImages": [],
+      "canvasCount": 0,
+      "overflow": []
+    },
+    "scrolls": [
+      {
+        "fraction": 0.3,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 878,
+        "headings": [
+          "Good morning, ABC Mobiles"
+        ],
+        "width": 1440,
+        "scrollWidth": 1440,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 0.65,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 878,
+        "headings": [
+          "Good morning, ABC Mobiles"
+        ],
+        "width": 1440,
+        "scrollWidth": 1440,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 1,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 878,
+        "headings": [
+          "Good morning, ABC Mobiles"
+        ],
+        "width": 1440,
+        "scrollWidth": 1440,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 0,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 878,
+        "headings": [
+          "Good morning, ABC Mobiles"
+        ],
+        "width": 1440,
+        "scrollWidth": 1440,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      }
+    ],
+    "navigation": "http://127.0.0.1:3000/retailer/catalogue",
+    "errors": [
+      "Error: <path> attribute d: Expected number, \"….3-.76.64-1.11 1--.33.36-.68.71-…\"."
+    ],
+    "warnings": [],
+    "failed": [],
+    "badResponses": []
+  },
+  {
+    "device": "desktop",
+    "route": "/discovery",
+    "status": 200,
+    "initial": {
+      "title": "Navora — Intelligent Business Systems",
+      "textLength": 324,
+      "headings": [
+        "TradePilot Business Discovery"
+      ],
+      "width": 1440,
+      "scrollWidth": 1440,
+      "missingImages": [],
+      "canvasCount": 0,
+      "overflow": []
+    },
+    "scrolls": [
+      {
+        "fraction": 0.3,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 324,
+        "headings": [
+          "TradePilot Business Discovery"
+        ],
+        "width": 1440,
+        "scrollWidth": 1440,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 0.65,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 324,
+        "headings": [
+          "TradePilot Business Discovery"
+        ],
+        "width": 1440,
+        "scrollWidth": 1440,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 1,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 324,
+        "headings": [
+          "TradePilot Business Discovery"
+        ],
+        "width": 1440,
+        "scrollWidth": 1440,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 0,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 324,
+        "headings": [
+          "TradePilot Business Discovery"
+        ],
+        "width": 1440,
+        "scrollWidth": 1440,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      }
+    ],
+    "errors": [],
+    "warnings": [],
+    "failed": [],
+    "badResponses": []
+  },
+  {
+    "device": "mobile",
+    "route": "/",
+    "status": 200,
+    "initial": {
+      "title": "Navora — Intelligent Business Systems",
+      "textLength": 2805,
+      "headings": [
+        "WE BUILD FOR THE FUTURE."
+      ],
+      "width": 390,
+      "scrollWidth": 390,
+      "missingImages": [],
+      "canvasCount": 1,
+      "overflow": []
+    },
+    "scrolls": [
+      {
+        "fraction": 0.3,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2816,
+        "headings": [
+          "WE BUILD FOR THE FUTURE."
+        ],
+        "width": 390,
+        "scrollWidth": 390,
+        "missingImages": [],
+        "canvasCount": 1,
+        "overflow": []
+      },
+      {
+        "fraction": 0.65,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2816,
+        "headings": [
+          "WE BUILD FOR THE FUTURE."
+        ],
+        "width": 390,
+        "scrollWidth": 390,
+        "missingImages": [],
+        "canvasCount": 1,
+        "overflow": []
+      },
+      {
+        "fraction": 1,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2816,
+        "headings": [
+          "WE BUILD FOR THE FUTURE."
+        ],
+        "width": 390,
+        "scrollWidth": 390,
+        "missingImages": [],
+        "canvasCount": 1,
+        "overflow": []
+      },
+      {
+        "fraction": 0,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2816,
+        "headings": [
+          "WE BUILD FOR THE FUTURE."
+        ],
+        "width": 390,
+        "scrollWidth": 390,
+        "missingImages": [],
+        "canvasCount": 1,
+        "overflow": []
+      }
+    ],
+    "navigation": "http://127.0.0.1:3000/solutions",
+    "errors": [],
+    "warnings": [
+      "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+      "THREE.WebGLProgram: Program Info Log: (210,81-129): warning X4122: sum of 0.996094 and -2.98545e-017 cannot be represented accurately in double precision\n(209,37-61): warning X4122: sum of 1 and -1.49272e-017 cannot be represented accurately in double precision\n(210,82-106): warning X4122: sum of 1 and -1.49272e-017 cannot be represented accurately in double precision\n(209,37-61): warning X4122: sum of 1 and -1.66644e-018 cannot be represented accurately in double precision\n(210,82-106): warning X4122: sum of 1 and -1.66644e-018 cannot be represented accurately in double precision\n\n\n\u0000"
+    ],
+    "failed": [],
+    "badResponses": []
+  },
+  {
+    "device": "mobile",
+    "route": "/solutions",
+    "status": 200,
+    "initial": {
+      "title": "Navora — Intelligent Business Systems",
+      "textLength": 2156,
+      "headings": [
+        "We build connected digital systems"
+      ],
+      "width": 390,
+      "scrollWidth": 390,
+      "missingImages": [],
+      "canvasCount": 0,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "cls": "absolute pointer-events-none -top-32 left-1/4 opacity-60",
+          "right": 598
+        },
+        {
+          "tag": "DIV",
+          "cls": "absolute pointer-events-none top-20 -right-20 opacity-40",
+          "right": 470
+        },
+        {
+          "tag": "DIV",
+          "cls": "absolute pointer-events-none top-40 -left-32 opacity-40",
+          "right": 322
+        }
+      ]
+    },
+    "scrolls": [
+      {
+        "fraction": 0.3,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2156,
+        "headings": [
+          "We build connected digital systems"
+        ],
+        "width": 390,
+        "scrollWidth": 390,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none -top-32 left-1/4 opacity-60",
+            "right": 598
+          },
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-20 -right-20 opacity-40",
+            "right": 470
+          },
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-40 -left-32 opacity-40",
+            "right": 322
+          }
+        ]
+      },
+      {
+        "fraction": 0.65,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2156,
+        "headings": [
+          "We build connected digital systems"
+        ],
+        "width": 390,
+        "scrollWidth": 390,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none -top-32 left-1/4 opacity-60",
+            "right": 598
+          },
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-20 -right-20 opacity-40",
+            "right": 470
+          },
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-40 -left-32 opacity-40",
+            "right": 322
+          }
+        ]
+      },
+      {
+        "fraction": 1,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2156,
+        "headings": [
+          "We build connected digital systems"
+        ],
+        "width": 390,
+        "scrollWidth": 390,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none -top-32 left-1/4 opacity-60",
+            "right": 598
+          },
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-20 -right-20 opacity-40",
+            "right": 470
+          },
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-40 -left-32 opacity-40",
+            "right": 322
+          }
+        ]
+      },
+      {
+        "fraction": 0,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2156,
+        "headings": [
+          "We build connected digital systems"
+        ],
+        "width": 390,
+        "scrollWidth": 390,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none -top-32 left-1/4 opacity-60",
+            "right": 598
+          },
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-20 -right-20 opacity-40",
+            "right": 470
+          },
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-40 -left-32 opacity-40",
+            "right": 322
+          }
+        ]
+      }
+    ],
+    "navigation": "http://127.0.0.1:3000/industries",
+    "errors": [],
+    "warnings": [],
+    "failed": [],
+    "badResponses": []
+  },
+  {
+    "device": "mobile",
+    "route": "/industries",
+    "status": 200,
+    "initial": {
+      "title": "Navora — Intelligent Business Systems",
+      "textLength": 1887,
+      "headings": [],
+      "width": 630,
+      "scrollWidth": 630,
+      "missingImages": [],
+      "canvasCount": 0,
+      "overflow": []
+    },
+    "scrolls": [
+      {
+        "fraction": 0.3,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 1887,
+        "headings": [],
+        "width": 630,
+        "scrollWidth": 630,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 0.65,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 1887,
+        "headings": [],
+        "width": 630,
+        "scrollWidth": 630,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 1,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 1887,
+        "headings": [],
+        "width": 630,
+        "scrollWidth": 630,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 0,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 1887,
+        "headings": [],
+        "width": 630,
+        "scrollWidth": 630,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      }
+    ],
+    "navigation": "FAILED: locator.click: Timeout 6000ms exceeded.",
+    "errors": [],
+    "warnings": [],
+    "failed": [],
+    "badResponses": []
+  },
+  {
+    "device": "mobile",
+    "route": "/how-it-works",
+    "status": 200,
+    "initial": {
+      "title": "Navora — Intelligent Business Systems",
+      "textLength": 2387,
+      "headings": [],
+      "width": 598,
+      "scrollWidth": 598,
+      "missingImages": [],
+      "canvasCount": 0,
+      "overflow": []
+    },
+    "scrolls": [
+      {
+        "fraction": 0.3,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2387,
+        "headings": [],
+        "width": 598,
+        "scrollWidth": 598,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 0.65,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2387,
+        "headings": [],
+        "width": 598,
+        "scrollWidth": 598,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 1,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2387,
+        "headings": [],
+        "width": 598,
+        "scrollWidth": 598,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 0,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2387,
+        "headings": [],
+        "width": 598,
+        "scrollWidth": 598,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      }
+    ],
+    "navigation": "FAILED: locator.click: Timeout 6000ms exceeded.",
+    "errors": [],
+    "warnings": [],
+    "failed": [],
+    "badResponses": []
+  },
+  {
+    "device": "mobile",
+    "route": "/about",
+    "status": 200,
+    "initial": {
+      "title": "Navora — Intelligent Business Systems",
+      "textLength": 2165,
+      "headings": [
+        "The beginning of a new era."
+      ],
+      "width": 598,
+      "scrollWidth": 598,
+      "missingImages": [],
+      "canvasCount": 0,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "cls": "absolute pointer-events-none top-20 -left-20 opacity-30",
+          "right": 320
+        }
+      ]
+    },
+    "scrolls": [
+      {
+        "fraction": 0.3,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2165,
+        "headings": [
+          "The beginning of a new era."
+        ],
+        "width": 598,
+        "scrollWidth": 598,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-20 -left-20 opacity-30",
+            "right": 320
+          }
+        ]
+      },
+      {
+        "fraction": 0.65,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2165,
+        "headings": [
+          "The beginning of a new era."
+        ],
+        "width": 598,
+        "scrollWidth": 598,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-20 -left-20 opacity-30",
+            "right": 320
+          }
+        ]
+      },
+      {
+        "fraction": 1,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2165,
+        "headings": [
+          "The beginning of a new era."
+        ],
+        "width": 598,
+        "scrollWidth": 598,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-20 -left-20 opacity-30",
+            "right": 320
+          }
+        ]
+      },
+      {
+        "fraction": 0,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 2165,
+        "headings": [
+          "The beginning of a new era."
+        ],
+        "width": 598,
+        "scrollWidth": 598,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "absolute pointer-events-none top-20 -left-20 opacity-30",
+            "right": 320
+          }
+        ]
+      }
+    ],
+    "navigation": "FAILED: locator.click: Timeout 6000ms exceeded.",
+    "errors": [],
+    "warnings": [],
+    "failed": [],
+    "badResponses": []
+  },
+  {
+    "device": "mobile",
+    "route": "/contact",
+    "status": 200,
+    "initial": {
+      "title": "Navora — Intelligent Business Systems",
+      "textLength": 1092,
+      "headings": [
+        "Let us design a system around your business."
+      ],
+      "width": 390,
+      "scrollWidth": 390,
+      "missingImages": [],
+      "canvasCount": 0,
+      "overflow": []
+    },
+    "scrolls": [
+      {
+        "fraction": 0.3,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 1092,
+        "headings": [
+          "Let us design a system around your business."
+        ],
+        "width": 390,
+        "scrollWidth": 390,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 0.65,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 1092,
+        "headings": [
+          "Let us design a system around your business."
+        ],
+        "width": 390,
+        "scrollWidth": 390,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 1,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 1092,
+        "headings": [
+          "Let us design a system around your business."
+        ],
+        "width": 390,
+        "scrollWidth": 390,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 0,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 1092,
+        "headings": [
+          "Let us design a system around your business."
+        ],
+        "width": 390,
+        "scrollWidth": 390,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      }
+    ],
+    "navigation": "http://127.0.0.1:3000/solutions",
+    "errors": [],
+    "warnings": [],
+    "failed": [],
+    "badResponses": []
+  },
+  {
+    "device": "mobile",
+    "route": "/command-centre",
+    "status": 200,
+    "initial": {
+      "title": "Navora — Intelligent Business Systems",
+      "textLength": 3030,
+      "headings": [
+        "Command Centre"
+      ],
+      "width": 390,
+      "scrollWidth": 390,
+      "missingImages": [],
+      "canvasCount": 0,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "cls": "flex items-center gap-1",
+          "right": 533
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "inline-flex items-center justify-center gap-2 transition-all duration-150 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 focus-visible:ring-offset-background disabled:opacity-50 disabled:pointer-events-none border border-border text-text-secondary hover:bg-surface-hover hover:text-text-primary px-3 py-1.5 text-xs font-medium",
+          "right": 421
+        },
+        {
+          "tag": "SPAN",
+          "cls": "flex items-center gap-1.5",
+          "right": 408
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "p-1.5 text-text-secondary hover:text-text-primary rounded-md hover:bg-surface-hover transition-colors",
+          "right": 455
+        },
+        {
+          "tag": "svg",
+          "cls": "",
+          "right": 449
+        },
+        {
+          "tag": "path",
+          "cls": "",
+          "right": 446
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "p-1.5 text-text-secondary hover:text-text-primary rounded-md hover:bg-surface-hover transition-colors",
+          "right": 489
+        },
+        {
+          "tag": "svg",
+          "cls": "",
+          "right": 483
+        },
+        {
+          "tag": "path",
+          "cls": "",
+          "right": 483
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "flex items-center gap-2.5 px-2 py-1.5 rounded-md hover:bg-surface-hover transition-colors",
+          "right": 533
+        },
+        {
+          "tag": "DIV",
+          "cls": "w-6 h-6 rounded-sm bg-primary flex items-center justify-center text-[10px] font-bold text-white",
+          "right": 525
+        },
+        {
+          "tag": "DIV",
+          "cls": "flex-shrink-0",
+          "right": 481
+        }
+      ]
+    },
+    "scrolls": [
+      {
+        "fraction": 0.3,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 3030,
+        "headings": [
+          "Command Centre"
+        ],
+        "width": 390,
+        "scrollWidth": 390,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "flex items-center gap-1",
+            "right": 533
+          },
+          {
+            "tag": "BUTTON",
+            "cls": "inline-flex items-center justify-center gap-2 transition-all duration-150 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 focus-visible:ring-offset-background disabled:opacity-50 disabled:pointer-events-none border border-border text-text-secondary hover:bg-surface-hover hover:text-text-primary px-3 py-1.5 text-xs font-medium",
+            "right": 421
+          },
+          {
+            "tag": "SPAN",
+            "cls": "flex items-center gap-1.5",
+            "right": 408
+          },
+          {
+            "tag": "BUTTON",
+            "cls": "p-1.5 text-text-secondary hover:text-text-primary rounded-md hover:bg-surface-hover transition-colors",
+            "right": 455
+          },
+          {
+            "tag": "svg",
+            "cls": "",
+            "right": 449
+          },
+          {
+            "tag": "path",
+            "cls": "",
+            "right": 446
+          },
+          {
+            "tag": "BUTTON",
+            "cls": "p-1.5 text-text-secondary hover:text-text-primary rounded-md hover:bg-surface-hover transition-colors",
+            "right": 489
+          },
+          {
+            "tag": "svg",
+            "cls": "",
+            "right": 483
+          },
+          {
+            "tag": "path",
+            "cls": "",
+            "right": 483
+          },
+          {
+            "tag": "BUTTON",
+            "cls": "flex items-center gap-2.5 px-2 py-1.5 rounded-md hover:bg-surface-hover transition-colors",
+            "right": 533
+          },
+          {
+            "tag": "DIV",
+            "cls": "w-6 h-6 rounded-sm bg-primary flex items-center justify-center text-[10px] font-bold text-white",
+            "right": 525
+          },
+          {
+            "tag": "DIV",
+            "cls": "flex-shrink-0",
+            "right": 481
+          }
+        ]
+      },
+      {
+        "fraction": 0.65,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 3030,
+        "headings": [
+          "Command Centre"
+        ],
+        "width": 390,
+        "scrollWidth": 390,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "flex items-center gap-1",
+            "right": 533
+          },
+          {
+            "tag": "BUTTON",
+            "cls": "inline-flex items-center justify-center gap-2 transition-all duration-150 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 focus-visible:ring-offset-background disabled:opacity-50 disabled:pointer-events-none border border-border text-text-secondary hover:bg-surface-hover hover:text-text-primary px-3 py-1.5 text-xs font-medium",
+            "right": 421
+          },
+          {
+            "tag": "SPAN",
+            "cls": "flex items-center gap-1.5",
+            "right": 408
+          },
+          {
+            "tag": "BUTTON",
+            "cls": "p-1.5 text-text-secondary hover:text-text-primary rounded-md hover:bg-surface-hover transition-colors",
+            "right": 455
+          },
+          {
+            "tag": "svg",
+            "cls": "",
+            "right": 449
+          },
+          {
+            "tag": "path",
+            "cls": "",
+            "right": 446
+          },
+          {
+            "tag": "BUTTON",
+            "cls": "p-1.5 text-text-secondary hover:text-text-primary rounded-md hover:bg-surface-hover transition-colors",
+            "right": 489
+          },
+          {
+            "tag": "svg",
+            "cls": "",
+            "right": 483
+          },
+          {
+            "tag": "path",
+            "cls": "",
+            "right": 483
+          },
+          {
+            "tag": "BUTTON",
+            "cls": "flex items-center gap-2.5 px-2 py-1.5 rounded-md hover:bg-surface-hover transition-colors",
+            "right": 533
+          },
+          {
+            "tag": "DIV",
+            "cls": "w-6 h-6 rounded-sm bg-primary flex items-center justify-center text-[10px] font-bold text-white",
+            "right": 525
+          },
+          {
+            "tag": "DIV",
+            "cls": "flex-shrink-0",
+            "right": 481
+          }
+        ]
+      },
+      {
+        "fraction": 1,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 3030,
+        "headings": [
+          "Command Centre"
+        ],
+        "width": 390,
+        "scrollWidth": 390,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "flex items-center gap-1",
+            "right": 533
+          },
+          {
+            "tag": "BUTTON",
+            "cls": "inline-flex items-center justify-center gap-2 transition-all duration-150 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 focus-visible:ring-offset-background disabled:opacity-50 disabled:pointer-events-none border border-border text-text-secondary hover:bg-surface-hover hover:text-text-primary px-3 py-1.5 text-xs font-medium",
+            "right": 421
+          },
+          {
+            "tag": "SPAN",
+            "cls": "flex items-center gap-1.5",
+            "right": 408
+          },
+          {
+            "tag": "BUTTON",
+            "cls": "p-1.5 text-text-secondary hover:text-text-primary rounded-md hover:bg-surface-hover transition-colors",
+            "right": 455
+          },
+          {
+            "tag": "svg",
+            "cls": "",
+            "right": 449
+          },
+          {
+            "tag": "path",
+            "cls": "",
+            "right": 446
+          },
+          {
+            "tag": "BUTTON",
+            "cls": "p-1.5 text-text-secondary hover:text-text-primary rounded-md hover:bg-surface-hover transition-colors",
+            "right": 489
+          },
+          {
+            "tag": "svg",
+            "cls": "",
+            "right": 483
+          },
+          {
+            "tag": "path",
+            "cls": "",
+            "right": 483
+          },
+          {
+            "tag": "BUTTON",
+            "cls": "flex items-center gap-2.5 px-2 py-1.5 rounded-md hover:bg-surface-hover transition-colors",
+            "right": 533
+          },
+          {
+            "tag": "DIV",
+            "cls": "w-6 h-6 rounded-sm bg-primary flex items-center justify-center text-[10px] font-bold text-white",
+            "right": 525
+          },
+          {
+            "tag": "DIV",
+            "cls": "flex-shrink-0",
+            "right": 481
+          }
+        ]
+      },
+      {
+        "fraction": 0,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 3030,
+        "headings": [
+          "Command Centre"
+        ],
+        "width": 390,
+        "scrollWidth": 390,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": [
+          {
+            "tag": "DIV",
+            "cls": "flex items-center gap-1",
+            "right": 533
+          },
+          {
+            "tag": "BUTTON",
+            "cls": "inline-flex items-center justify-center gap-2 transition-all duration-150 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 focus-visible:ring-offset-background disabled:opacity-50 disabled:pointer-events-none border border-border text-text-secondary hover:bg-surface-hover hover:text-text-primary px-3 py-1.5 text-xs font-medium",
+            "right": 421
+          },
+          {
+            "tag": "SPAN",
+            "cls": "flex items-center gap-1.5",
+            "right": 408
+          },
+          {
+            "tag": "BUTTON",
+            "cls": "p-1.5 text-text-secondary hover:text-text-primary rounded-md hover:bg-surface-hover transition-colors",
+            "right": 455
+          },
+          {
+            "tag": "svg",
+            "cls": "",
+            "right": 449
+          },
+          {
+            "tag": "path",
+            "cls": "",
+            "right": 446
+          },
+          {
+            "tag": "BUTTON",
+            "cls": "p-1.5 text-text-secondary hover:text-text-primary rounded-md hover:bg-surface-hover transition-colors",
+            "right": 489
+          },
+          {
+            "tag": "svg",
+            "cls": "",
+            "right": 483
+          },
+          {
+            "tag": "path",
+            "cls": "",
+            "right": 483
+          },
+          {
+            "tag": "BUTTON",
+            "cls": "flex items-center gap-2.5 px-2 py-1.5 rounded-md hover:bg-surface-hover transition-colors",
+            "right": 533
+          },
+          {
+            "tag": "DIV",
+            "cls": "w-6 h-6 rounded-sm bg-primary flex items-center justify-center text-[10px] font-bold text-white",
+            "right": 525
+          },
+          {
+            "tag": "DIV",
+            "cls": "flex-shrink-0",
+            "right": 481
+          }
+        ]
+      }
+    ],
+    "navigation": "http://127.0.0.1:3000/commerce",
+    "errors": [
+      "Error: <path> attribute d: Expected number, \"….3-.76.64-1.11 1--.33.36-.68.71-…\".",
+      "Error: <path> attribute d: Expected number, \"….03-.33-2.82-.88.-.32-.56-.53-.9…\".",
+      "Each child in a list should have a unique \"key\" prop.%s%s See https://react.dev/link/warning-keys for more information. \n\nCheck the render method of `ChartLine`. "
+    ],
+    "warnings": [],
+    "failed": [],
+    "badResponses": []
+  },
+  {
+    "device": "mobile",
+    "route": "/retailer",
+    "status": 200,
+    "initial": {
+      "title": "Navora — Intelligent Business Systems",
+      "textLength": 809,
+      "headings": [
+        "Good morning, ABC Mobiles"
+      ],
+      "width": 390,
+      "scrollWidth": 390,
+      "missingImages": [],
+      "canvasCount": 0,
+      "overflow": []
+    },
+    "scrolls": [
+      {
+        "fraction": 0.3,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 809,
+        "headings": [
+          "Good morning, ABC Mobiles"
+        ],
+        "width": 390,
+        "scrollWidth": 390,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 0.65,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 809,
+        "headings": [
+          "Good morning, ABC Mobiles"
+        ],
+        "width": 390,
+        "scrollWidth": 390,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 1,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 809,
+        "headings": [
+          "Good morning, ABC Mobiles"
+        ],
+        "width": 390,
+        "scrollWidth": 390,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 0,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 809,
+        "headings": [
+          "Good morning, ABC Mobiles"
+        ],
+        "width": 390,
+        "scrollWidth": 390,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      }
+    ],
+    "navigation": "http://127.0.0.1:3000/retailer/catalogue",
+    "errors": [
+      "Error: <path> attribute d: Expected number, \"….3-.76.64-1.11 1--.33.36-.68.71-…\"."
+    ],
+    "warnings": [],
+    "failed": [],
+    "badResponses": []
+  },
+  {
+    "device": "mobile",
+    "route": "/discovery",
+    "status": 200,
+    "initial": {
+      "title": "Navora — Intelligent Business Systems",
+      "textLength": 324,
+      "headings": [
+        "TradePilot Business Discovery"
+      ],
+      "width": 390,
+      "scrollWidth": 390,
+      "missingImages": [],
+      "canvasCount": 0,
+      "overflow": []
+    },
+    "scrolls": [
+      {
+        "fraction": 0.3,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 324,
+        "headings": [
+          "TradePilot Business Discovery"
+        ],
+        "width": 390,
+        "scrollWidth": 390,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 0.65,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 324,
+        "headings": [
+          "TradePilot Business Discovery"
+        ],
+        "width": 390,
+        "scrollWidth": 390,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 1,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 324,
+        "headings": [
+          "TradePilot Business Discovery"
+        ],
+        "width": 390,
+        "scrollWidth": 390,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      },
+      {
+        "fraction": 0,
+        "title": "Navora — Intelligent Business Systems",
+        "textLength": 324,
+        "headings": [
+          "TradePilot Business Discovery"
+        ],
+        "width": 390,
+        "scrollWidth": 390,
+        "missingImages": [],
+        "canvasCount": 0,
+        "overflow": []
+      }
+    ],
+    "errors": [],
+    "warnings": [],
+    "failed": [],
+    "badResponses": []
+  },
+  {
+    "mode": "no-webgl",
+    "initial": {
+      "title": "Navora — Intelligent Business Systems",
+      "textLength": 2805,
+      "headings": [
+        "WE BUILD FOR THE FUTURE."
+      ],
+      "width": 390,
+      "scrollWidth": 390,
+      "missingImages": [],
+      "canvasCount": 0,
+      "overflow": []
+    },
+    "errors": [],
+    "navigation": "http://127.0.0.1:3000/solutions"
+  },
+  {
+    "mode": "model-failure",
+    "initial": {
+      "title": "Navora — Intelligent Business Systems",
+      "textLength": 2805,
+      "headings": [
+        "WE BUILD FOR THE FUTURE."
+      ],
+      "width": 390,
+      "scrollWidth": 390,
+      "missingImages": [],
+      "canvasCount": 1,
+      "overflow": []
+    },
+    "errors": [
+      "Failed to load resource: net::ERR_FAILED",
+      "Could not load /models/robot-guide.glb: Failed to fetch",
+      "Avatar GLB failed: Error: Could not load /models/robot-guide.glb: Failed to fetch\n    at http://127.0.0.1:3000/node_modules/.vite/deps/chunk-EY5E5IBJ.js?v=fd99bf8d:1478:38\n    at Object._onError [as onError] (http://127.0.0.1:3000/node_modules/.vite/deps/@react-three_drei.js?v=fd99bf8d:26736:9)\n    at http://127.0.0.1:3000/node_modules/.vite/deps/chunk-3RLE6T47.js?v=fd99bf8d:23971:40"
+    ],
+    "navigation": "http://127.0.0.1:3000/solutions"
+  },
+  {
+    "mode": "reduced-motion",
+    "initial": {
+      "title": "Navora — Intelligent Business Systems",
+      "textLength": 2805,
+      "headings": [
+        "WE BUILD FOR THE FUTURE."
+      ],
+      "width": 390,
+      "scrollWidth": 390,
+      "missingImages": [],
+      "canvasCount": 1,
+      "overflow": []
+    },
+    "errors": [],
+    "navigation": "http://127.0.0.1:3000/solutions"
+  }
+]

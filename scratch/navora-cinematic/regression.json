@@ -1,0 +1,156 @@
+[
+  {
+    "device": "desktop",
+    "route": "/",
+    "url": "http://127.0.0.1:51970/",
+    "width": 1440,
+    "errors": []
+  },
+  {
+    "device": "desktop",
+    "route": "/industries",
+    "url": "http://127.0.0.1:51970/industries",
+    "width": 1440,
+    "errors": []
+  },
+  {
+    "device": "desktop",
+    "route": "/how-it-works",
+    "url": "http://127.0.0.1:51970/how-it-works",
+    "width": 1440,
+    "errors": []
+  },
+  {
+    "device": "desktop",
+    "route": "/about",
+    "url": "http://127.0.0.1:51970/about",
+    "width": 1440,
+    "errors": []
+  },
+  {
+    "device": "desktop",
+    "route": "/contact",
+    "url": "http://127.0.0.1:51970/contact",
+    "width": 1440,
+    "errors": []
+  },
+  {
+    "device": "desktop",
+    "route": "/privacy",
+    "url": "http://127.0.0.1:51970/privacy",
+    "width": 1440,
+    "errors": []
+  },
+  {
+    "device": "desktop",
+    "route": "/terms",
+    "url": "http://127.0.0.1:51970/terms",
+    "width": 1440,
+    "errors": []
+  },
+  {
+    "device": "desktop",
+    "route": "/services",
+    "url": "http://127.0.0.1:51970/solutions",
+    "width": 1440,
+    "errors": []
+  },
+  {
+    "device": "desktop",
+    "route": "/work",
+    "url": "http://127.0.0.1:51970/industries",
+    "width": 1440,
+    "errors": []
+  },
+  {
+    "device": "desktop",
+    "route": "/process",
+    "url": "http://127.0.0.1:51970/how-it-works",
+    "width": 1440,
+    "errors": []
+  },
+  {
+    "device": "desktop",
+    "route": "/navora-visual-qa-missing-route",
+    "url": "http://127.0.0.1:51970/navora-visual-qa-missing-route",
+    "width": 1440,
+    "errors": []
+  },
+  {
+    "device": "mobile",
+    "route": "/",
+    "url": "http://127.0.0.1:51970/",
+    "width": 390,
+    "errors": []
+  },
+  {
+    "device": "mobile",
+    "route": "/industries",
+    "url": "http://127.0.0.1:51970/industries",
+    "width": 390,
+    "errors": []
+  },
+  {
+    "device": "mobile",
+    "route": "/how-it-works",
+    "url": "http://127.0.0.1:51970/how-it-works",
+    "width": 390,
+    "errors": []
+  },
+  {
+    "device": "mobile",
+    "route": "/about",
+    "url": "http://127.0.0.1:51970/about",
+    "width": 390,
+    "errors": []
+  },
+  {
+    "device": "mobile",
+    "route": "/contact",
+    "url": "http://127.0.0.1:51970/contact",
+    "width": 390,
+    "errors": []
+  },
+  {
+    "device": "mobile",
+    "route": "/privacy",
+    "url": "http://127.0.0.1:51970/privacy",
+    "width": 390,
+    "errors": []
+  },
+  {
+    "device": "mobile",
+    "route": "/terms",
+    "url": "http://127.0.0.1:51970/terms",
+    "width": 390,
+    "errors": []
+  },
+  {
+    "device": "mobile",
+    "route": "/services",
+    "url": "http://127.0.0.1:51970/solutions",
+    "width": 390,
+    "errors": []
+  },
+  {
+    "device": "mobile",
+    "route": "/work",
+    "url": "http://127.0.0.1:51970/industries",
+    "width": 390,
+    "errors": []
+  },
+  {
+    "device": "mobile",
+    "route": "/process",
+    "url": "http://127.0.0.1:51970/how-it-works",
+    "width": 390,
+    "errors": []
+  },
+  {
+    "device": "mobile",
+    "route": "/navora-visual-qa-missing-route",
+    "url": "http://127.0.0.1:51970/navora-visual-qa-missing-route",
+    "width": 390,
+    "errors": []
+  }
+]

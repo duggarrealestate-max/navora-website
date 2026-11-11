@@ -1,0 +1,106 @@
+[
+  {
+    "device": "desktop",
+    "scenes": [
+      {
+        "scene": "0",
+        "phase": "0",
+        "width": 1440,
+        "panelCopyOverlap": false,
+        "panels": 1
+      },
+      {
+        "scene": "1",
+        "phase": "1",
+        "width": 1440,
+        "panelCopyOverlap": false,
+        "panels": 1
+      },
+      {
+        "scene": "2",
+        "phase": "2",
+        "width": 1440,
+        "panelCopyOverlap": false,
+        "panels": 1
+      },
+      {
+        "scene": "3",
+        "phase": "3",
+        "width": 1440,
+        "panelCopyOverlap": false,
+        "panels": 1
+      },
+      {
+        "scene": "4",
+        "phase": "5",
+        "width": 1440,
+        "panelCopyOverlap": false,
+        "panels": 1
+      },
+      {
+        "scene": "5",
+        "phase": "6",
+        "width": 1440,
+        "panelCopyOverlap": false,
+        "panels": 1
+      }
+    ],
+    "keyboard": true,
+    "cta": "/contact",
+    "errors": [],
+    "failed": [],
+    "reduced": true
+  },
+  {
+    "device": "mobile",
+    "scenes": [
+      {
+        "scene": "0",
+        "phase": "0",
+        "width": 390,
+        "panelCopyOverlap": false,
+        "panels": 1
+      },
+      {
+        "scene": "1",
+        "phase": "1",
+        "width": 390,
+        "panelCopyOverlap": false,
+        "panels": 1
+      },
+      {
+        "scene": "2",
+        "phase": "2",
+        "width": 390,
+        "panelCopyOverlap": false,
+        "panels": 1
+      },
+      {
+        "scene": "3",
+        "phase": "3",
+        "width": 390,
+        "panelCopyOverlap": false,
+        "panels": 1
+      },
+      {
+        "scene": "4",
+        "phase": "5",
+        "width": 390,
+        "panelCopyOverlap": false,
+        "panels": 1
+      },
+      {
+        "scene": "5",
+        "phase": "6",
+        "width": 390,
+        "panelCopyOverlap": false,
+        "panels": 1
+      }
+    ],
+    "keyboard": true,
+    "cta": "/contact",
+    "errors": [],
+    "failed": [],
+    "reduced": true
+  }
+]

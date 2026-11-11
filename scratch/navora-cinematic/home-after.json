@@ -1,0 +1,12 @@
+[
+  {
+    "device": "desktop",
+    "width": 1440,
+    "canvas": 1
+  },
+  {
+    "device": "mobile",
+    "width": 390,
+    "canvas": 1
+  }
+]

@@ -1,0 +1,10 @@
+﻿const fs=require('fs');
+const p='src/public/components/system/OrchestrationEngine.tsx';
+let s=fs.readFileSync(p,'utf8');
+s=s.replace("import { useState } from 'react';","import { useState } from 'react';\nimport { motion, useReducedMotion } from 'framer-motion';");
+s=s.replace('const item = scenarios[scenario];','const item = scenarios[scenario];\n  const reduced = useReducedMotion();\n  const positions = [[110,85],[500,85],[890,85],[890,255],[500,255],[110,255]];');
+s=s.replace('<path className="nx-path-signal" d="M110 85 H500 H890 V255 H500 H110" />','<path className="nx-completed-path" pathLength={100} strokeDasharray={String(stage * 20) + " 100"} d="M110 85 H500 H890 V255 H500 H110" /><motion.circle className="nx-moving-signal" r={5} initial={false} animate={{ cx: positions[stage][0], cy: positions[stage][1] }} transition={{ duration: reduced ? 0 : .7, ease: "easeInOut" }} />');
+fs.writeFileSync(p,s);
+const a='src/public/pages/AboutPage.tsx';
+s=fs.readFileSync(a,'utf8').replace('<i /><i /><strong>N /</strong>','<i style={{ transform: "rotate(" + (45 + active * 12) + "deg)" }} /><i style={{ transform: "rotate(" + (65 - active * 12) + "deg)" }} /><strong>N /</strong>');
+fs.writeFileSync(a,s);

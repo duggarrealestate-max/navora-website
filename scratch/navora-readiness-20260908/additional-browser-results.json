@@ -1,0 +1,118 @@
+[
+  {
+    "name": "mobile-home-final",
+    "title": "Navora — Intelligent Business Systems",
+    "textLength": 2805,
+    "canvas": 1,
+    "clientWidth": 390,
+    "scrollWidth": 390,
+    "innerWidth": 390,
+    "visualWidth": 390,
+    "favicon": "http://127.0.0.1:3000/brand/navora-logo.png",
+    "navigation": "http://127.0.0.1:3000/contact",
+    "errors": []
+  },
+  {
+    "name": "mobile-solutions-final",
+    "title": "Navora — Intelligent Business Systems",
+    "textLength": 2156,
+    "canvas": 0,
+    "clientWidth": 390,
+    "scrollWidth": 390,
+    "innerWidth": 390,
+    "visualWidth": 390,
+    "favicon": "http://127.0.0.1:3000/brand/navora-logo.png",
+    "navigation": "http://127.0.0.1:3000/contact",
+    "errors": []
+  },
+  {
+    "name": "desktop-no-webgl",
+    "title": "Navora — Intelligent Business Systems",
+    "textLength": 3094,
+    "canvas": 0,
+    "clientWidth": 1440,
+    "scrollWidth": 1440,
+    "innerWidth": 1440,
+    "visualWidth": 1440,
+    "favicon": "http://127.0.0.1:3000/brand/navora-logo.png",
+    "navigation": "http://127.0.0.1:3000/contact",
+    "errors": []
+  },
+  {
+    "name": "desktop-model-failure",
+    "title": "Navora — Intelligent Business Systems",
+    "textLength": 3094,
+    "canvas": 1,
+    "clientWidth": 1440,
+    "scrollWidth": 1440,
+    "innerWidth": 1440,
+    "visualWidth": 1440,
+    "favicon": "http://127.0.0.1:3000/brand/navora-logo.png",
+    "navigation": "http://127.0.0.1:3000/contact",
+    "errors": [
+      "Could not load /models/robot-guide.glb: Failed to fetch"
+    ]
+  },
+  {
+    "name": "desktop-scene-failure",
+    "title": "Navora — Intelligent Business Systems",
+    "textLength": 3094,
+    "canvas": 0,
+    "clientWidth": 1440,
+    "scrollWidth": 1440,
+    "innerWidth": 1440,
+    "visualWidth": 1440,
+    "favicon": "http://127.0.0.1:3000/brand/navora-logo.png",
+    "navigation": "http://127.0.0.1:3000/contact",
+    "errors": [
+      "Could not load potsdamer_platz_1k.hdr: Failed to fetch"
+    ]
+  },
+  {
+    "name": "mobile-no-webgl-final",
+    "title": "Navora — Intelligent Business Systems",
+    "textLength": 2805,
+    "canvas": 0,
+    "clientWidth": 390,
+    "scrollWidth": 390,
+    "innerWidth": 390,
+    "visualWidth": 390,
+    "favicon": "http://127.0.0.1:3000/brand/navora-logo.png",
+    "navigation": "http://127.0.0.1:3000/contact",
+    "errors": []
+  },
+  {
+    "name": "mobile-model-failure-final",
+    "title": "Navora — Intelligent Business Systems",
+    "textLength": 2805,
+    "canvas": 1,
+    "clientWidth": 390,
+    "scrollWidth": 390,
+    "innerWidth": 390,
+    "visualWidth": 390,
+    "favicon": "http://127.0.0.1:3000/brand/navora-logo.png",
+    "navigation": "http://127.0.0.1:3000/contact",
+    "errors": [
+      "Could not load /models/robot-guide.glb: Failed to fetch"
+    ]
+  },
+  {
+    "name": "mobile-scene-failure",
+    "title": "Navora — Intelligent Business Systems",
+    "textLength": 2805,
+    "canvas": 0,
+    "clientWidth": 390,
+    "scrollWidth": 390,
+    "innerWidth": 390,
+    "visualWidth": 390,
+    "favicon": "http://127.0.0.1:3000/brand/navora-logo.png",
+    "navigation": "http://127.0.0.1:3000/contact",
+    "errors": [
+      "Could not load potsdamer_platz_1k.hdr: Failed to fetch"
+    ]
+  },
+  {
+    "scrollReturnedToStart": 0,
+    "zones": 9
+  }
+]

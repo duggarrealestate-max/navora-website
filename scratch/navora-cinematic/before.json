@@ -1,0 +1,50 @@
+[
+  {
+    "device": "desktop",
+    "name": "home",
+    "webgl": true,
+    "heading": {
+      "font": "Inter, system-ui, sans-serif",
+      "size": "60px",
+      "color": "rgb(241, 240, 233)"
+    }
+  },
+  {
+    "device": "desktop",
+    "name": "solutions",
+    "webgl": true,
+    "heading": {
+      "font": "Inter, system-ui, sans-serif",
+      "size": "47.52px",
+      "color": "rgb(241, 240, 233)"
+    }
+  },
+  {
+    "device": "desktop",
+    "failures": []
+  },
+  {
+    "device": "mobile",
+    "name": "home",
+    "webgl": true,
+    "heading": {
+      "font": "Inter, system-ui, sans-serif",
+      "size": "38px",
+      "color": "rgb(241, 240, 233)"
+    }
+  },
+  {
+    "device": "mobile",
+    "name": "solutions",
+    "webgl": true,
+    "heading": {
+      "font": "Inter, system-ui, sans-serif",
+      "size": "34px",
+      "color": "rgb(241, 240, 233)"
+    }
+  },
+  {
+    "device": "mobile",
+    "failures": []
+  }
+]

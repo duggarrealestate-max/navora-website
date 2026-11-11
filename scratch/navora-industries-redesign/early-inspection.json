@@ -1,0 +1,68 @@
+[
+  {
+    "device": "desktop",
+    "name": "home",
+    "h1": "WE BUILD AROUND YOUR BUSINESS.",
+    "font": "Inter, system-ui, sans-serif",
+    "size": "60px",
+    "color": "rgb(241, 240, 233)",
+    "body": "rgba(0, 0, 0, 0)",
+    "width": 1440,
+    "canvas": 0
+  },
+  {
+    "device": "desktop",
+    "name": "solutions",
+    "h1": "Less office work.More time for customers.",
+    "font": "Inter, system-ui, sans-serif",
+    "size": "48.96px",
+    "color": "rgb(241, 240, 233)",
+    "body": "rgba(0, 0, 0, 0)",
+    "width": 1440,
+    "canvas": 1
+  },
+  {
+    "device": "desktop",
+    "name": "industries",
+    "h1": "Whatever your business, we make everyday work easier.",
+    "font": "Inter, system-ui, sans-serif",
+    "size": "60px",
+    "color": "rgb(241, 240, 233)",
+    "body": "rgba(0, 0, 0, 0)",
+    "width": 1440,
+    "canvas": 0
+  },
+  {
+    "device": "mobile",
+    "name": "home",
+    "h1": "WE BUILD AROUND YOUR BUSINESS.",
+    "font": "Inter, system-ui, sans-serif",
+    "size": "38px",
+    "color": "rgb(241, 240, 233)",
+    "body": "rgba(0, 0, 0, 0)",
+    "width": 390,
+    "canvas": 0
+  },
+  {
+    "device": "mobile",
+    "name": "solutions",
+    "h1": "Less office work.More time for customers.",
+    "font": "Inter, system-ui, sans-serif",
+    "size": "34px",
+    "color": "rgb(241, 240, 233)",
+    "body": "rgba(0, 0, 0, 0)",
+    "width": 390,
+    "canvas": 1
+  },
+  {
+    "device": "mobile",
+    "name": "industries",
+    "h1": "Whatever your business, we make everyday work easier.",
+    "font": "Inter, system-ui, sans-serif",
+    "size": "35.1px",
+    "color": "rgb(241, 240, 233)",
+    "body": "rgba(0, 0, 0, 0)",
+    "width": 390,
+    "canvas": 0
+  }
+]

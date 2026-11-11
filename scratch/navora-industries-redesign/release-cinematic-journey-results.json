@@ -1,0 +1,3650 @@
+[
+  {
+    "device": "desktop",
+    "index": 0,
+    "expectedStep": 0,
+    "activity": "Enquiries",
+    "step": "A customer gets in touch",
+    "chapter": "Enquiries",
+    "stage": {
+      "x": 729.71875,
+      "y": 191,
+      "width": 614.28125,
+      "height": 850,
+      "top": 191,
+      "right": 1344,
+      "bottom": 1041,
+      "left": 729.71875
+    },
+    "heading": {
+      "x": 96,
+      "y": 776.75,
+      "width": 533.890625,
+      "height": 57.75,
+      "top": 776.75,
+      "right": 629.890625,
+      "bottom": 834.5,
+      "left": 96
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 80,
+      "top": 0,
+      "right": 1440,
+      "bottom": 80,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 1041.166748046875,
+        "y": 476.546875,
+        "width": 290,
+        "height": 124,
+        "top": 476.546875,
+        "right": 1331.166748046875,
+        "bottom": 600.546875,
+        "left": 1041.166748046875
+      },
+      {
+        "x": 1112,
+        "y": 705.546875,
+        "width": 290,
+        "height": 125.484375,
+        "top": 705.546875,
+        "right": 1402,
+        "bottom": 831.03125,
+        "left": 1112
+      }
+    ],
+    "packet": {
+      "x": 1003.5615234375,
+      "y": 464.44903564453125,
+      "width": 57.814453125,
+      "height": 60.1019287109375,
+      "top": 464.44903564453125,
+      "right": 1061.3759765625,
+      "bottom": 524.5509643554688,
+      "left": 1003.5615234375
+    },
+    "resultOpacity": 0,
+    "width": 1440,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "desktop",
+    "index": 0,
+    "expectedStep": 2,
+    "activity": "Enquiries",
+    "step": "A helpful reply is prepared",
+    "chapter": "Enquiries",
+    "stage": {
+      "x": 729.71875,
+      "y": 100,
+      "width": 614.28125,
+      "height": 850,
+      "top": 100,
+      "right": 1344,
+      "bottom": 950,
+      "left": 729.71875
+    },
+    "heading": {
+      "x": 96,
+      "y": 392.75,
+      "width": 533.890625,
+      "height": 57.75,
+      "top": 392.75,
+      "right": 629.890625,
+      "bottom": 450.5,
+      "left": 96
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 80,
+      "top": 0,
+      "right": 1440,
+      "bottom": 80,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 1027,
+        "y": 385.546875,
+        "width": 290,
+        "height": 124,
+        "top": 385.546875,
+        "right": 1317,
+        "bottom": 509.546875,
+        "left": 1027
+      },
+      {
+        "x": 1034.083251953125,
+        "y": 614.546875,
+        "width": 290,
+        "height": 125.484375,
+        "top": 614.546875,
+        "right": 1324.083251953125,
+        "bottom": 740.03125,
+        "left": 1034.083251953125
+      }
+    ],
+    "packet": {
+      "x": 1015.4877319335938,
+      "y": 508.7297058105469,
+      "width": 49.42266845703125,
+      "height": 52.336578369140625,
+      "top": 508.7297058105469,
+      "right": 1064.910400390625,
+      "bottom": 561.0662841796875,
+      "left": 1015.4877319335938
+    },
+    "resultOpacity": 0,
+    "width": 1440,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "desktop",
+    "index": 0,
+    "expectedStep": 4,
+    "activity": "Enquiries",
+    "step": "The follow-up is added",
+    "chapter": "Enquiries",
+    "stage": {
+      "x": 729.71875,
+      "y": 100,
+      "width": 614.28125,
+      "height": 850,
+      "top": 100,
+      "right": 1344,
+      "bottom": 950,
+      "left": 729.71875
+    },
+    "heading": {
+      "x": 96,
+      "y": 8.75,
+      "width": 533.890625,
+      "height": 57.75,
+      "top": 8.75,
+      "right": 629.890625,
+      "bottom": 66.5,
+      "left": 96
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 80,
+      "top": 0,
+      "right": 1440,
+      "bottom": 80,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 902,
+        "y": 385.546875,
+        "width": 290,
+        "height": 124,
+        "top": 385.546875,
+        "right": 1192,
+        "bottom": 509.546875,
+        "left": 902
+      },
+      {
+        "x": 1142,
+        "y": 614.546875,
+        "width": 290,
+        "height": 125.484375,
+        "top": 614.546875,
+        "right": 1432,
+        "bottom": 740.03125,
+        "left": 1142
+      }
+    ],
+    "packet": {
+      "x": 1165.20654296875,
+      "y": 543.1097412109375,
+      "width": 52.44091796875,
+      "height": 55.155517578125,
+      "top": 543.1097412109375,
+      "right": 1217.6474609375,
+      "bottom": 598.2652587890625,
+      "left": 1165.20654296875
+    },
+    "resultOpacity": 1,
+    "width": 1440,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "desktop",
+    "index": 1,
+    "expectedStep": 0,
+    "activity": "Bookings",
+    "step": "An appointment is requested",
+    "chapter": "Bookings",
+    "stage": {
+      "x": 729.71875,
+      "y": 100,
+      "width": 614.28125,
+      "height": 850,
+      "top": 100,
+      "right": 1344,
+      "bottom": 950,
+      "left": 729.71875
+    },
+    "heading": {
+      "x": 96,
+      "y": 765.5,
+      "width": 533.890625,
+      "height": 57.75,
+      "top": 765.5,
+      "right": 629.890625,
+      "bottom": 823.25,
+      "left": 96
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 80,
+      "top": 0,
+      "right": 1440,
+      "bottom": 80,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 1041.166748046875,
+        "y": 385.546875,
+        "width": 290,
+        "height": 124,
+        "top": 385.546875,
+        "right": 1331.166748046875,
+        "bottom": 509.546875,
+        "left": 1041.166748046875
+      },
+      {
+        "x": 1112,
+        "y": 614.546875,
+        "width": 290,
+        "height": 125.484375,
+        "top": 614.546875,
+        "right": 1402,
+        "bottom": 740.03125,
+        "left": 1112
+      }
+    ],
+    "packet": {
+      "x": 1003.5615234375,
+      "y": 373.44903564453125,
+      "width": 57.814453125,
+      "height": 60.1019287109375,
+      "top": 373.44903564453125,
+      "right": 1061.3759765625,
+      "bottom": 433.55096435546875,
+      "left": 1003.5615234375
+    },
+    "resultOpacity": 0,
+    "width": 1440,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "desktop",
+    "index": 1,
+    "expectedStep": 2,
+    "activity": "Bookings",
+    "step": "A booking is prepared",
+    "chapter": "Bookings",
+    "stage": {
+      "x": 729.71875,
+      "y": 100,
+      "width": 614.28125,
+      "height": 850,
+      "top": 100,
+      "right": 1344,
+      "bottom": 950,
+      "left": 729.71875
+    },
+    "heading": {
+      "x": 96,
+      "y": 381.5,
+      "width": 533.890625,
+      "height": 57.75,
+      "top": 381.5,
+      "right": 629.890625,
+      "bottom": 439.25,
+      "left": 96
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 80,
+      "top": 0,
+      "right": 1440,
+      "bottom": 80,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 1027,
+        "y": 385.546875,
+        "width": 290,
+        "height": 124,
+        "top": 385.546875,
+        "right": 1317,
+        "bottom": 509.546875,
+        "left": 1027
+      },
+      {
+        "x": 1034.083251953125,
+        "y": 614.546875,
+        "width": 290,
+        "height": 125.484375,
+        "top": 614.546875,
+        "right": 1324.083251953125,
+        "bottom": 740.03125,
+        "left": 1034.083251953125
+      }
+    ],
+    "packet": {
+      "x": 1015.4877319335938,
+      "y": 508.7297058105469,
+      "width": 49.42266845703125,
+      "height": 52.336578369140625,
+      "top": 508.7297058105469,
+      "right": 1064.910400390625,
+      "bottom": 561.0662841796875,
+      "left": 1015.4877319335938
+    },
+    "resultOpacity": 0,
+    "width": 1440,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "desktop",
+    "index": 1,
+    "expectedStep": 4,
+    "activity": "Bookings",
+    "step": "The calendar is updated",
+    "chapter": "Bookings",
+    "stage": {
+      "x": 729.71875,
+      "y": 100,
+      "width": 614.28125,
+      "height": 850,
+      "top": 100,
+      "right": 1344,
+      "bottom": 950,
+      "left": 729.71875
+    },
+    "heading": {
+      "x": 96,
+      "y": -2.5,
+      "width": 533.890625,
+      "height": 57.75,
+      "top": -2.5,
+      "right": 629.890625,
+      "bottom": 55.25,
+      "left": 96
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 80,
+      "top": 0,
+      "right": 1440,
+      "bottom": 80,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 902,
+        "y": 385.546875,
+        "width": 290,
+        "height": 124,
+        "top": 385.546875,
+        "right": 1192,
+        "bottom": 509.546875,
+        "left": 902
+      },
+      {
+        "x": 1142,
+        "y": 614.546875,
+        "width": 290,
+        "height": 125.484375,
+        "top": 614.546875,
+        "right": 1432,
+        "bottom": 740.03125,
+        "left": 1142
+      }
+    ],
+    "packet": {
+      "x": 1165.20654296875,
+      "y": 543.1097412109375,
+      "width": 52.44091796875,
+      "height": 55.155517578125,
+      "top": 543.1097412109375,
+      "right": 1217.6474609375,
+      "bottom": 598.2652587890625,
+      "left": 1165.20654296875
+    },
+    "resultOpacity": 1,
+    "width": 1440,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "desktop",
+    "index": 2,
+    "expectedStep": 0,
+    "activity": "Quotes",
+    "step": "A quote is waiting for a reply",
+    "chapter": "Quotes",
+    "stage": {
+      "x": 729.71875,
+      "y": 100,
+      "width": 614.28125,
+      "height": 850,
+      "top": 100,
+      "right": 1344,
+      "bottom": 950,
+      "left": 729.71875
+    },
+    "heading": {
+      "x": 96,
+      "y": 754.25,
+      "width": 533.890625,
+      "height": 57.75,
+      "top": 754.25,
+      "right": 629.890625,
+      "bottom": 812,
+      "left": 96
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 80,
+      "top": 0,
+      "right": 1440,
+      "bottom": 80,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 1041.166748046875,
+        "y": 385.546875,
+        "width": 290,
+        "height": 124,
+        "top": 385.546875,
+        "right": 1331.166748046875,
+        "bottom": 509.546875,
+        "left": 1041.166748046875
+      },
+      {
+        "x": 1112,
+        "y": 614.546875,
+        "width": 290,
+        "height": 125.484375,
+        "top": 614.546875,
+        "right": 1402,
+        "bottom": 740.03125,
+        "left": 1112
+      }
+    ],
+    "packet": {
+      "x": 1003.5615234375,
+      "y": 373.44903564453125,
+      "width": 57.814453125,
+      "height": 60.1019287109375,
+      "top": 373.44903564453125,
+      "right": 1061.3759765625,
+      "bottom": 433.55096435546875,
+      "left": 1003.5615234375
+    },
+    "resultOpacity": 0,
+    "width": 1440,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "desktop",
+    "index": 2,
+    "expectedStep": 2,
+    "activity": "Quotes",
+    "step": "A follow-up is prepared",
+    "chapter": "Quotes",
+    "stage": {
+      "x": 729.71875,
+      "y": 100,
+      "width": 614.28125,
+      "height": 850,
+      "top": 100,
+      "right": 1344,
+      "bottom": 950,
+      "left": 729.71875
+    },
+    "heading": {
+      "x": 96,
+      "y": 370.25,
+      "width": 533.890625,
+      "height": 57.75,
+      "top": 370.25,
+      "right": 629.890625,
+      "bottom": 428,
+      "left": 96
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 80,
+      "top": 0,
+      "right": 1440,
+      "bottom": 80,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 1027,
+        "y": 385.546875,
+        "width": 290,
+        "height": 124,
+        "top": 385.546875,
+        "right": 1317,
+        "bottom": 509.546875,
+        "left": 1027
+      },
+      {
+        "x": 1034.083251953125,
+        "y": 614.546875,
+        "width": 290,
+        "height": 125.484375,
+        "top": 614.546875,
+        "right": 1324.083251953125,
+        "bottom": 740.03125,
+        "left": 1034.083251953125
+      }
+    ],
+    "packet": {
+      "x": 1015.4877319335938,
+      "y": 508.7297058105469,
+      "width": 49.42266845703125,
+      "height": 52.336578369140625,
+      "top": 508.7297058105469,
+      "right": 1064.910400390625,
+      "bottom": 561.0662841796875,
+      "left": 1015.4877319335938
+    },
+    "resultOpacity": 0,
+    "width": 1440,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "desktop",
+    "index": 2,
+    "expectedStep": 4,
+    "activity": "Quotes",
+    "step": "The next action is saved",
+    "chapter": "Quotes",
+    "stage": {
+      "x": 729.71875,
+      "y": 100,
+      "width": 614.28125,
+      "height": 850,
+      "top": 100,
+      "right": 1344,
+      "bottom": 950,
+      "left": 729.71875
+    },
+    "heading": {
+      "x": 96,
+      "y": -13.75,
+      "width": 533.890625,
+      "height": 57.75,
+      "top": -13.75,
+      "right": 629.890625,
+      "bottom": 44,
+      "left": 96
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 80,
+      "top": 0,
+      "right": 1440,
+      "bottom": 80,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 902,
+        "y": 385.546875,
+        "width": 290,
+        "height": 124,
+        "top": 385.546875,
+        "right": 1192,
+        "bottom": 509.546875,
+        "left": 902
+      },
+      {
+        "x": 1142,
+        "y": 614.546875,
+        "width": 290,
+        "height": 125.484375,
+        "top": 614.546875,
+        "right": 1432,
+        "bottom": 740.03125,
+        "left": 1142
+      }
+    ],
+    "packet": {
+      "x": 1165.20654296875,
+      "y": 543.1097412109375,
+      "width": 52.44091796875,
+      "height": 55.155517578125,
+      "top": 543.1097412109375,
+      "right": 1217.6474609375,
+      "bottom": 598.2652587890625,
+      "left": 1165.20654296875
+    },
+    "resultOpacity": 1,
+    "width": 1440,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "desktop",
+    "index": 3,
+    "expectedStep": 0,
+    "activity": "Orders",
+    "step": "A repeat order is placed",
+    "chapter": "Orders",
+    "stage": {
+      "x": 729.71875,
+      "y": 100,
+      "width": 614.28125,
+      "height": 850,
+      "top": 100,
+      "right": 1344,
+      "bottom": 950,
+      "left": 729.71875
+    },
+    "heading": {
+      "x": 96,
+      "y": 754.25,
+      "width": 533.890625,
+      "height": 57.75,
+      "top": 754.25,
+      "right": 629.890625,
+      "bottom": 812,
+      "left": 96
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 80,
+      "top": 0,
+      "right": 1440,
+      "bottom": 80,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 1041.166748046875,
+        "y": 385.546875,
+        "width": 290,
+        "height": 124,
+        "top": 385.546875,
+        "right": 1331.166748046875,
+        "bottom": 509.546875,
+        "left": 1041.166748046875
+      },
+      {
+        "x": 1112,
+        "y": 614.546875,
+        "width": 290,
+        "height": 125.484375,
+        "top": 614.546875,
+        "right": 1402,
+        "bottom": 740.03125,
+        "left": 1112
+      }
+    ],
+    "packet": {
+      "x": 1003.5615234375,
+      "y": 373.44903564453125,
+      "width": 57.814453125,
+      "height": 60.1019287109375,
+      "top": 373.44903564453125,
+      "right": 1061.3759765625,
+      "bottom": 433.55096435546875,
+      "left": 1003.5615234375
+    },
+    "resultOpacity": 0,
+    "width": 1440,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "desktop",
+    "index": 3,
+    "expectedStep": 2,
+    "activity": "Orders",
+    "step": "Your team receives the task",
+    "chapter": "Orders",
+    "stage": {
+      "x": 729.71875,
+      "y": 100,
+      "width": 614.28125,
+      "height": 850,
+      "top": 100,
+      "right": 1344,
+      "bottom": 950,
+      "left": 729.71875
+    },
+    "heading": {
+      "x": 96,
+      "y": 370.25,
+      "width": 533.890625,
+      "height": 57.75,
+      "top": 370.25,
+      "right": 629.890625,
+      "bottom": 428,
+      "left": 96
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 80,
+      "top": 0,
+      "right": 1440,
+      "bottom": 80,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 1027,
+        "y": 385.546875,
+        "width": 290,
+        "height": 124,
+        "top": 385.546875,
+        "right": 1317,
+        "bottom": 509.546875,
+        "left": 1027
+      },
+      {
+        "x": 1034.083251953125,
+        "y": 614.546875,
+        "width": 290,
+        "height": 125.484375,
+        "top": 614.546875,
+        "right": 1324.083251953125,
+        "bottom": 740.03125,
+        "left": 1034.083251953125
+      }
+    ],
+    "packet": {
+      "x": 1015.4877319335938,
+      "y": 508.7297058105469,
+      "width": 49.42266845703125,
+      "height": 52.336578369140625,
+      "top": 508.7297058105469,
+      "right": 1064.910400390625,
+      "bottom": 561.0662841796875,
+      "left": 1015.4877319335938
+    },
+    "resultOpacity": 0,
+    "width": 1440,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "desktop",
+    "index": 3,
+    "expectedStep": 4,
+    "activity": "Orders",
+    "step": "Order progress is visible",
+    "chapter": "Orders",
+    "stage": {
+      "x": 729.71875,
+      "y": 100,
+      "width": 614.28125,
+      "height": 850,
+      "top": 100,
+      "right": 1344,
+      "bottom": 950,
+      "left": 729.71875
+    },
+    "heading": {
+      "x": 96,
+      "y": -13.75,
+      "width": 533.890625,
+      "height": 57.75,
+      "top": -13.75,
+      "right": 629.890625,
+      "bottom": 44,
+      "left": 96
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 80,
+      "top": 0,
+      "right": 1440,
+      "bottom": 80,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 902,
+        "y": 385.546875,
+        "width": 290,
+        "height": 124,
+        "top": 385.546875,
+        "right": 1192,
+        "bottom": 509.546875,
+        "left": 902
+      },
+      {
+        "x": 1142,
+        "y": 614.546875,
+        "width": 290,
+        "height": 125.484375,
+        "top": 614.546875,
+        "right": 1432,
+        "bottom": 740.03125,
+        "left": 1142
+      }
+    ],
+    "packet": {
+      "x": 1165.20654296875,
+      "y": 543.1097412109375,
+      "width": 52.44091796875,
+      "height": 55.155517578125,
+      "top": 543.1097412109375,
+      "right": 1217.6474609375,
+      "bottom": 598.2652587890625,
+      "left": 1165.20654296875
+    },
+    "resultOpacity": 1,
+    "width": 1440,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "desktop",
+    "index": 4,
+    "expectedStep": 0,
+    "activity": "Customer updates",
+    "step": "A customer asks for an update",
+    "chapter": "Customer updates",
+    "stage": {
+      "x": 729.71875,
+      "y": 100,
+      "width": 614.28125,
+      "height": 850,
+      "top": 100,
+      "right": 1344,
+      "bottom": 950,
+      "left": 729.71875
+    },
+    "heading": {
+      "x": 96,
+      "y": 754.25,
+      "width": 533.890625,
+      "height": 57.75,
+      "top": 754.25,
+      "right": 629.890625,
+      "bottom": 812,
+      "left": 96
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 80,
+      "top": 0,
+      "right": 1440,
+      "bottom": 80,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 1041.166748046875,
+        "y": 405.953125,
+        "width": 290,
+        "height": 124,
+        "top": 405.953125,
+        "right": 1331.166748046875,
+        "bottom": 529.953125,
+        "left": 1041.166748046875
+      },
+      {
+        "x": 1112,
+        "y": 634.953125,
+        "width": 290,
+        "height": 125.484375,
+        "top": 634.953125,
+        "right": 1402,
+        "bottom": 760.4375,
+        "left": 1112
+      }
+    ],
+    "packet": {
+      "x": 1003.5615234375,
+      "y": 373.44903564453125,
+      "width": 57.814453125,
+      "height": 60.1019287109375,
+      "top": 373.44903564453125,
+      "right": 1061.3759765625,
+      "bottom": 433.55096435546875,
+      "left": 1003.5615234375
+    },
+    "resultOpacity": 0,
+    "width": 1440,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "desktop",
+    "index": 4,
+    "expectedStep": 2,
+    "activity": "Customer updates",
+    "step": "An answer is prepared",
+    "chapter": "Customer updates",
+    "stage": {
+      "x": 729.71875,
+      "y": 100,
+      "width": 614.28125,
+      "height": 850,
+      "top": 100,
+      "right": 1344,
+      "bottom": 950,
+      "left": 729.71875
+    },
+    "heading": {
+      "x": 96,
+      "y": 370.25,
+      "width": 533.890625,
+      "height": 57.75,
+      "top": 370.25,
+      "right": 629.890625,
+      "bottom": 428,
+      "left": 96
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 80,
+      "top": 0,
+      "right": 1440,
+      "bottom": 80,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 1027,
+        "y": 385.546875,
+        "width": 290,
+        "height": 124,
+        "top": 385.546875,
+        "right": 1317,
+        "bottom": 509.546875,
+        "left": 1027
+      },
+      {
+        "x": 1034.083251953125,
+        "y": 614.546875,
+        "width": 290,
+        "height": 125.484375,
+        "top": 614.546875,
+        "right": 1324.083251953125,
+        "bottom": 740.03125,
+        "left": 1034.083251953125
+      }
+    ],
+    "packet": {
+      "x": 1015.4877319335938,
+      "y": 508.7297058105469,
+      "width": 49.42266845703125,
+      "height": 52.336578369140625,
+      "top": 508.7297058105469,
+      "right": 1064.910400390625,
+      "bottom": 561.0662841796875,
+      "left": 1015.4877319335938
+    },
+    "resultOpacity": 0,
+    "width": 1440,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "desktop",
+    "index": 4,
+    "expectedStep": 4,
+    "activity": "Customer updates",
+    "step": "The conversation is saved",
+    "chapter": "Customer updates",
+    "stage": {
+      "x": 729.71875,
+      "y": 100,
+      "width": 614.28125,
+      "height": 850,
+      "top": 100,
+      "right": 1344,
+      "bottom": 950,
+      "left": 729.71875
+    },
+    "heading": {
+      "x": 96,
+      "y": -13.75,
+      "width": 533.890625,
+      "height": 57.75,
+      "top": -13.75,
+      "right": 629.890625,
+      "bottom": 44,
+      "left": 96
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 80,
+      "top": 0,
+      "right": 1440,
+      "bottom": 80,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 902,
+        "y": 385.546875,
+        "width": 290,
+        "height": 124,
+        "top": 385.546875,
+        "right": 1192,
+        "bottom": 509.546875,
+        "left": 902
+      },
+      {
+        "x": 1142,
+        "y": 614.546875,
+        "width": 290,
+        "height": 125.484375,
+        "top": 614.546875,
+        "right": 1432,
+        "bottom": 740.03125,
+        "left": 1142
+      }
+    ],
+    "packet": {
+      "x": 1165.20654296875,
+      "y": 543.1097412109375,
+      "width": 52.44091796875,
+      "height": 55.155517578125,
+      "top": 543.1097412109375,
+      "right": 1217.6474609375,
+      "bottom": 598.2652587890625,
+      "left": 1165.20654296875
+    },
+    "resultOpacity": 1,
+    "width": 1440,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "desktop",
+    "index": 5,
+    "expectedStep": 0,
+    "activity": "Follow-ups",
+    "step": "A follow-up becomes due",
+    "chapter": "Follow-ups",
+    "stage": {
+      "x": 729.71875,
+      "y": 100,
+      "width": 614.28125,
+      "height": 850,
+      "top": 100,
+      "right": 1344,
+      "bottom": 950,
+      "left": 729.71875
+    },
+    "heading": {
+      "x": 96,
+      "y": 754.25,
+      "width": 533.890625,
+      "height": 57.75,
+      "top": 754.25,
+      "right": 629.890625,
+      "bottom": 812,
+      "left": 96
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 80,
+      "top": 0,
+      "right": 1440,
+      "bottom": 80,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 1041.166748046875,
+        "y": 385.546875,
+        "width": 290,
+        "height": 124,
+        "top": 385.546875,
+        "right": 1331.166748046875,
+        "bottom": 509.546875,
+        "left": 1041.166748046875
+      },
+      {
+        "x": 1112,
+        "y": 614.546875,
+        "width": 290,
+        "height": 125.484375,
+        "top": 614.546875,
+        "right": 1402,
+        "bottom": 740.03125,
+        "left": 1112
+      }
+    ],
+    "packet": {
+      "x": 1003.5615234375,
+      "y": 373.44903564453125,
+      "width": 57.814453125,
+      "height": 60.1019287109375,
+      "top": 373.44903564453125,
+      "right": 1061.3759765625,
+      "bottom": 433.55096435546875,
+      "left": 1003.5615234375
+    },
+    "resultOpacity": 0,
+    "width": 1440,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "desktop",
+    "index": 5,
+    "expectedStep": 2,
+    "activity": "Follow-ups",
+    "step": "A message is prepared",
+    "chapter": "Follow-ups",
+    "stage": {
+      "x": 729.71875,
+      "y": 100,
+      "width": 614.28125,
+      "height": 850,
+      "top": 100,
+      "right": 1344,
+      "bottom": 950,
+      "left": 729.71875
+    },
+    "heading": {
+      "x": 96,
+      "y": 370.25,
+      "width": 533.890625,
+      "height": 57.75,
+      "top": 370.25,
+      "right": 629.890625,
+      "bottom": 428,
+      "left": 96
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 80,
+      "top": 0,
+      "right": 1440,
+      "bottom": 80,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 1027,
+        "y": 385.546875,
+        "width": 290,
+        "height": 124,
+        "top": 385.546875,
+        "right": 1317,
+        "bottom": 509.546875,
+        "left": 1027
+      },
+      {
+        "x": 1034.083251953125,
+        "y": 614.546875,
+        "width": 290,
+        "height": 125.484375,
+        "top": 614.546875,
+        "right": 1324.083251953125,
+        "bottom": 740.03125,
+        "left": 1034.083251953125
+      }
+    ],
+    "packet": {
+      "x": 1015.4877319335938,
+      "y": 508.7297058105469,
+      "width": 49.42266845703125,
+      "height": 52.336578369140625,
+      "top": 508.7297058105469,
+      "right": 1064.910400390625,
+      "bottom": 561.0662841796875,
+      "left": 1015.4877319335938
+    },
+    "resultOpacity": 0,
+    "width": 1440,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "desktop",
+    "index": 5,
+    "expectedStep": 4,
+    "activity": "Follow-ups",
+    "step": "The next step is recorded",
+    "chapter": "Follow-ups",
+    "stage": {
+      "x": 729.71875,
+      "y": 100,
+      "width": 614.28125,
+      "height": 850,
+      "top": 100,
+      "right": 1344,
+      "bottom": 950,
+      "left": 729.71875
+    },
+    "heading": {
+      "x": 96,
+      "y": -13.75,
+      "width": 533.890625,
+      "height": 57.75,
+      "top": -13.75,
+      "right": 629.890625,
+      "bottom": 44,
+      "left": 96
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 80,
+      "top": 0,
+      "right": 1440,
+      "bottom": 80,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 902,
+        "y": 385.546875,
+        "width": 290,
+        "height": 124,
+        "top": 385.546875,
+        "right": 1192,
+        "bottom": 509.546875,
+        "left": 902
+      },
+      {
+        "x": 1142,
+        "y": 614.546875,
+        "width": 290,
+        "height": 125.484375,
+        "top": 614.546875,
+        "right": 1432,
+        "bottom": 740.03125,
+        "left": 1142
+      }
+    ],
+    "packet": {
+      "x": 1165.20654296875,
+      "y": 543.1097412109375,
+      "width": 52.44091796875,
+      "height": 55.155517578125,
+      "top": 543.1097412109375,
+      "right": 1217.6474609375,
+      "bottom": 598.2652587890625,
+      "left": 1165.20654296875
+    },
+    "resultOpacity": 1,
+    "width": 1440,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "desktop",
+    "index": 6,
+    "expectedStep": 0,
+    "activity": "Payments",
+    "step": "An invoice is nearly due",
+    "chapter": "Payments",
+    "stage": {
+      "x": 729.71875,
+      "y": 100,
+      "width": 614.28125,
+      "height": 850,
+      "top": 100,
+      "right": 1344,
+      "bottom": 950,
+      "left": 729.71875
+    },
+    "heading": {
+      "x": 96,
+      "y": 754.25,
+      "width": 533.890625,
+      "height": 57.75,
+      "top": 754.25,
+      "right": 629.890625,
+      "bottom": 812,
+      "left": 96
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 80,
+      "top": 0,
+      "right": 1440,
+      "bottom": 80,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 1041.166748046875,
+        "y": 385.546875,
+        "width": 290,
+        "height": 124,
+        "top": 385.546875,
+        "right": 1331.166748046875,
+        "bottom": 509.546875,
+        "left": 1041.166748046875
+      },
+      {
+        "x": 1112,
+        "y": 614.546875,
+        "width": 290,
+        "height": 125.484375,
+        "top": 614.546875,
+        "right": 1402,
+        "bottom": 740.03125,
+        "left": 1112
+      }
+    ],
+    "packet": {
+      "x": 1003.5615234375,
+      "y": 373.44903564453125,
+      "width": 57.814453125,
+      "height": 60.1019287109375,
+      "top": 373.44903564453125,
+      "right": 1061.3759765625,
+      "bottom": 433.55096435546875,
+      "left": 1003.5615234375
+    },
+    "resultOpacity": 0,
+    "width": 1440,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "desktop",
+    "index": 6,
+    "expectedStep": 2,
+    "activity": "Payments",
+    "step": "A reminder is prepared",
+    "chapter": "Payments",
+    "stage": {
+      "x": 729.71875,
+      "y": 100,
+      "width": 614.28125,
+      "height": 850,
+      "top": 100,
+      "right": 1344,
+      "bottom": 950,
+      "left": 729.71875
+    },
+    "heading": {
+      "x": 96,
+      "y": 370.25,
+      "width": 533.890625,
+      "height": 57.75,
+      "top": 370.25,
+      "right": 629.890625,
+      "bottom": 428,
+      "left": 96
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 80,
+      "top": 0,
+      "right": 1440,
+      "bottom": 80,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 1027,
+        "y": 385.546875,
+        "width": 290,
+        "height": 124,
+        "top": 385.546875,
+        "right": 1317,
+        "bottom": 509.546875,
+        "left": 1027
+      },
+      {
+        "x": 1034.083251953125,
+        "y": 614.546875,
+        "width": 290,
+        "height": 125.484375,
+        "top": 614.546875,
+        "right": 1324.083251953125,
+        "bottom": 740.03125,
+        "left": 1034.083251953125
+      }
+    ],
+    "packet": {
+      "x": 1015.4877319335938,
+      "y": 508.7297058105469,
+      "width": 49.42266845703125,
+      "height": 52.336578369140625,
+      "top": 508.7297058105469,
+      "right": 1064.910400390625,
+      "bottom": 561.0662841796875,
+      "left": 1015.4877319335938
+    },
+    "resultOpacity": 0,
+    "width": 1440,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "desktop",
+    "index": 6,
+    "expectedStep": 4,
+    "activity": "Payments",
+    "step": "The record is updated",
+    "chapter": "Payments",
+    "stage": {
+      "x": 729.71875,
+      "y": 100,
+      "width": 614.28125,
+      "height": 850,
+      "top": 100,
+      "right": 1344,
+      "bottom": 950,
+      "left": 729.71875
+    },
+    "heading": {
+      "x": 96,
+      "y": -13.75,
+      "width": 533.890625,
+      "height": 57.75,
+      "top": -13.75,
+      "right": 629.890625,
+      "bottom": 44,
+      "left": 96
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 80,
+      "top": 0,
+      "right": 1440,
+      "bottom": 80,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 902,
+        "y": 385.546875,
+        "width": 290,
+        "height": 124,
+        "top": 385.546875,
+        "right": 1192,
+        "bottom": 509.546875,
+        "left": 902
+      },
+      {
+        "x": 1142,
+        "y": 614.546875,
+        "width": 290,
+        "height": 125.484375,
+        "top": 614.546875,
+        "right": 1432,
+        "bottom": 740.03125,
+        "left": 1142
+      }
+    ],
+    "packet": {
+      "x": 1165.20654296875,
+      "y": 543.1097412109375,
+      "width": 52.44091796875,
+      "height": 55.155517578125,
+      "top": 543.1097412109375,
+      "right": 1217.6474609375,
+      "bottom": 598.2652587890625,
+      "left": 1165.20654296875
+    },
+    "resultOpacity": 1,
+    "width": 1440,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "desktop",
+    "index": 7,
+    "expectedStep": 0,
+    "activity": "Reports",
+    "step": "Work is recorded",
+    "chapter": "Reports",
+    "stage": {
+      "x": 729.71875,
+      "y": 100,
+      "width": 614.28125,
+      "height": 850,
+      "top": 100,
+      "right": 1344,
+      "bottom": 950,
+      "left": 729.71875
+    },
+    "heading": {
+      "x": 96,
+      "y": 765.5,
+      "width": 533.890625,
+      "height": 57.75,
+      "top": 765.5,
+      "right": 629.890625,
+      "bottom": 823.25,
+      "left": 96
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 80,
+      "top": 0,
+      "right": 1440,
+      "bottom": 80,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 1041.166748046875,
+        "y": 385.546875,
+        "width": 290,
+        "height": 124,
+        "top": 385.546875,
+        "right": 1331.166748046875,
+        "bottom": 509.546875,
+        "left": 1041.166748046875
+      },
+      {
+        "x": 1112,
+        "y": 614.546875,
+        "width": 290,
+        "height": 125.484375,
+        "top": 614.546875,
+        "right": 1402,
+        "bottom": 740.03125,
+        "left": 1112
+      }
+    ],
+    "packet": {
+      "x": 1003.5615234375,
+      "y": 373.44903564453125,
+      "width": 57.814453125,
+      "height": 60.1019287109375,
+      "top": 373.44903564453125,
+      "right": 1061.3759765625,
+      "bottom": 433.55096435546875,
+      "left": 1003.5615234375
+    },
+    "resultOpacity": 0,
+    "width": 1440,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "desktop",
+    "index": 7,
+    "expectedStep": 2,
+    "activity": "Reports",
+    "step": "Completed work is shown",
+    "chapter": "Reports",
+    "stage": {
+      "x": 729.71875,
+      "y": 100,
+      "width": 614.28125,
+      "height": 850,
+      "top": 100,
+      "right": 1344,
+      "bottom": 950,
+      "left": 729.71875
+    },
+    "heading": {
+      "x": 96,
+      "y": 381.5,
+      "width": 533.890625,
+      "height": 57.75,
+      "top": 381.5,
+      "right": 629.890625,
+      "bottom": 439.25,
+      "left": 96
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 80,
+      "top": 0,
+      "right": 1440,
+      "bottom": 80,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 1027,
+        "y": 385.546875,
+        "width": 290,
+        "height": 124,
+        "top": 385.546875,
+        "right": 1317,
+        "bottom": 509.546875,
+        "left": 1027
+      },
+      {
+        "x": 1034.083251953125,
+        "y": 614.546875,
+        "width": 290,
+        "height": 125.484375,
+        "top": 614.546875,
+        "right": 1324.083251953125,
+        "bottom": 740.03125,
+        "left": 1034.083251953125
+      }
+    ],
+    "packet": {
+      "x": 1015.4877319335938,
+      "y": 508.7297058105469,
+      "width": 49.42266845703125,
+      "height": 52.336578369140625,
+      "top": 508.7297058105469,
+      "right": 1064.910400390625,
+      "bottom": 561.0662841796875,
+      "left": 1015.4877319335938
+    },
+    "resultOpacity": 0,
+    "width": 1440,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "desktop",
+    "index": 7,
+    "expectedStep": 4,
+    "activity": "Reports",
+    "step": "The next action is clear",
+    "chapter": "Reports",
+    "stage": {
+      "x": 729.71875,
+      "y": -153.625,
+      "width": 614.28125,
+      "height": 850,
+      "top": -153.625,
+      "right": 1344,
+      "bottom": 696.375,
+      "left": 729.71875
+    },
+    "heading": {
+      "x": 96,
+      "y": -2.5,
+      "width": 533.890625,
+      "height": 57.75,
+      "top": -2.5,
+      "right": 629.890625,
+      "bottom": 55.25,
+      "left": 96
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 80,
+      "top": 0,
+      "right": 1440,
+      "bottom": 80,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 902,
+        "y": 131.921875,
+        "width": 290,
+        "height": 124,
+        "top": 131.921875,
+        "right": 1192,
+        "bottom": 255.921875,
+        "left": 902
+      },
+      {
+        "x": 1142,
+        "y": 360.921875,
+        "width": 290,
+        "height": 125.484375,
+        "top": 360.921875,
+        "right": 1432,
+        "bottom": 486.40625,
+        "left": 1142
+      }
+    ],
+    "packet": {
+      "x": 1165.20654296875,
+      "y": 289.4847412109375,
+      "width": 52.44091796875,
+      "height": 55.155517578125,
+      "top": 289.4847412109375,
+      "right": 1217.6474609375,
+      "bottom": 344.6402587890625,
+      "left": 1165.20654296875
+    },
+    "resultOpacity": 1,
+    "width": 1440,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "desktop",
+    "check": "browser errors",
+    "errors": [
+      "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+    ],
+    "failedRequests": [
+      {
+        "url": "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap",
+        "error": "net::ERR_NETWORK_ACCESS_DENIED"
+      }
+    ]
+  },
+  {
+    "device": "mobile",
+    "index": 0,
+    "expectedStep": 0,
+    "activity": "Enquiries",
+    "step": "A customer gets in touch",
+    "chapter": "Enquiries",
+    "stage": {
+      "x": 20,
+      "y": 565.671875,
+      "width": 350,
+      "height": 325,
+      "top": 565.671875,
+      "right": 370,
+      "bottom": 890.671875,
+      "left": 20
+    },
+    "heading": {
+      "x": 20,
+      "y": 505.5625,
+      "width": 350,
+      "height": 40.109375,
+      "top": 505.5625,
+      "right": 370,
+      "bottom": 545.671875,
+      "left": 20
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 72,
+      "top": 0,
+      "right": 390,
+      "bottom": 72,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 42.058799743652344,
+        "y": 583.671875,
+        "width": 254.390625,
+        "height": 80.375,
+        "top": 583.671875,
+        "right": 296.44942474365234,
+        "bottom": 664.046875,
+        "left": 42.058799743652344
+      },
+      {
+        "x": 166.40625,
+        "y": 764.046875,
+        "width": 222.59375,
+        "height": 79,
+        "top": 764.046875,
+        "right": 389,
+        "bottom": 843.046875,
+        "left": 166.40625
+      }
+    ],
+    "packet": {
+      "x": 170.57244873046875,
+      "y": 633.6099853515625,
+      "width": 30,
+      "height": 32,
+      "top": 633.6099853515625,
+      "right": 200.57244873046875,
+      "bottom": 665.6099853515625,
+      "left": 170.57244873046875
+    },
+    "resultOpacity": 0,
+    "width": 390,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "mobile",
+    "index": 0,
+    "expectedStep": 2,
+    "activity": "Enquiries",
+    "step": "A helpful reply is prepared",
+    "chapter": "Enquiries",
+    "stage": {
+      "x": 20,
+      "y": 254.671875,
+      "width": 350,
+      "height": 325,
+      "top": 254.671875,
+      "right": 370,
+      "bottom": 579.671875,
+      "left": 20
+    },
+    "heading": {
+      "x": 20,
+      "y": 194.5625,
+      "width": 350,
+      "height": 40.109375,
+      "top": 194.5625,
+      "right": 370,
+      "bottom": 234.671875,
+      "left": 20
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 72,
+      "top": 0,
+      "right": 390,
+      "bottom": 72,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 36,
+        "y": 272.671875,
+        "width": 254.390625,
+        "height": 80.375,
+        "top": 272.671875,
+        "right": 290.390625,
+        "bottom": 353.046875,
+        "left": 36
+      },
+      {
+        "x": 134.3229522705078,
+        "y": 453.046875,
+        "width": 222.59373474121094,
+        "height": 79,
+        "top": 453.046875,
+        "right": 356.91668701171875,
+        "bottom": 532.046875,
+        "left": 134.3229522705078
+      }
+    ],
+    "packet": {
+      "x": 201.03125,
+      "y": 354.671875,
+      "width": 30,
+      "height": 32,
+      "top": 354.671875,
+      "right": 231.03125,
+      "bottom": 386.671875,
+      "left": 201.03125
+    },
+    "resultOpacity": 0,
+    "width": 390,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "mobile",
+    "index": 0,
+    "expectedStep": 4,
+    "activity": "Enquiries",
+    "step": "The follow-up is added",
+    "chapter": "Enquiries",
+    "stage": {
+      "x": 20,
+      "y": -55.328125,
+      "width": 350,
+      "height": 325,
+      "top": -55.328125,
+      "right": 370,
+      "bottom": 269.671875,
+      "left": 20
+    },
+    "heading": {
+      "x": 20,
+      "y": -115.4375,
+      "width": 350,
+      "height": 40.109375,
+      "top": -115.4375,
+      "right": 370,
+      "bottom": -75.328125,
+      "left": 20
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 72,
+      "top": 0,
+      "right": 390,
+      "bottom": 72,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": -18.645599365234375,
+        "y": -37.328125,
+        "width": 254.390625,
+        "height": 80.375,
+        "top": -37.328125,
+        "right": 235.74502563476562,
+        "bottom": 43.046875,
+        "left": -18.645599365234375
+      },
+      {
+        "x": 186.05184936523438,
+        "y": 143.046875,
+        "width": 222.59375,
+        "height": 79,
+        "top": 143.046875,
+        "right": 408.6455993652344,
+        "bottom": 222.046875,
+        "left": 186.05184936523438
+      }
+    ],
+    "packet": {
+      "x": 231.39205932617188,
+      "y": 76.63067626953125,
+      "width": 30,
+      "height": 32,
+      "top": 76.63067626953125,
+      "right": 261.3920593261719,
+      "bottom": 108.63067626953125,
+      "left": 231.39205932617188
+    },
+    "resultOpacity": 1,
+    "width": 390,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "mobile",
+    "index": 1,
+    "expectedStep": 0,
+    "activity": "Bookings",
+    "step": "An appointment is requested",
+    "chapter": "Bookings",
+    "stage": {
+      "x": 20,
+      "y": 565.140625,
+      "width": 350,
+      "height": 325,
+      "top": 565.140625,
+      "right": 370,
+      "bottom": 890.140625,
+      "left": 20
+    },
+    "heading": {
+      "x": 20,
+      "y": 505.03125,
+      "width": 350,
+      "height": 40.109375,
+      "top": 505.03125,
+      "right": 370,
+      "bottom": 545.140625,
+      "left": 20
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 72,
+      "top": 0,
+      "right": 390,
+      "bottom": 72,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 41.720699310302734,
+        "y": 583.140625,
+        "width": 254.390625,
+        "height": 80.375,
+        "top": 583.140625,
+        "right": 296.11132431030273,
+        "bottom": 663.515625,
+        "left": 41.720699310302734
+      },
+      {
+        "x": 166.40625,
+        "y": 763.515625,
+        "width": 222.59375,
+        "height": 79,
+        "top": 763.515625,
+        "right": 389,
+        "bottom": 842.515625,
+        "left": 166.40625
+      }
+    ],
+    "packet": {
+      "x": 170.66055297851562,
+      "y": 633.1715087890625,
+      "width": 30,
+      "height": 32,
+      "top": 633.1715087890625,
+      "right": 200.66055297851562,
+      "bottom": 665.1715087890625,
+      "left": 170.66055297851562
+    },
+    "resultOpacity": 0,
+    "width": 390,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "mobile",
+    "index": 1,
+    "expectedStep": 2,
+    "activity": "Bookings",
+    "step": "A booking is prepared",
+    "chapter": "Bookings",
+    "stage": {
+      "x": 20,
+      "y": 255.140625,
+      "width": 350,
+      "height": 325,
+      "top": 255.140625,
+      "right": 370,
+      "bottom": 580.140625,
+      "left": 20
+    },
+    "heading": {
+      "x": 20,
+      "y": 195.03125,
+      "width": 350,
+      "height": 40.109375,
+      "top": 195.03125,
+      "right": 370,
+      "bottom": 235.140625,
+      "left": 20
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 72,
+      "top": 0,
+      "right": 390,
+      "bottom": 72,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 36,
+        "y": 273.140625,
+        "width": 254.390625,
+        "height": 80.375,
+        "top": 273.140625,
+        "right": 290.390625,
+        "bottom": 353.515625,
+        "left": 36
+      },
+      {
+        "x": 134.416748046875,
+        "y": 453.515625,
+        "width": 222.59375,
+        "height": 79,
+        "top": 453.515625,
+        "right": 357.010498046875,
+        "bottom": 532.515625,
+        "left": 134.416748046875
+      }
+    ],
+    "packet": {
+      "x": 200.9823455810547,
+      "y": 355.089111328125,
+      "width": 30,
+      "height": 32,
+      "top": 355.089111328125,
+      "right": 230.9823455810547,
+      "bottom": 387.089111328125,
+      "left": 200.9823455810547
+    },
+    "resultOpacity": 0,
+    "width": 390,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "mobile",
+    "index": 1,
+    "expectedStep": 4,
+    "activity": "Bookings",
+    "step": "The calendar is updated",
+    "chapter": "Bookings",
+    "stage": {
+      "x": 20,
+      "y": -55.859375,
+      "width": 350,
+      "height": 325,
+      "top": -55.859375,
+      "right": 370,
+      "bottom": 269.140625,
+      "left": 20
+    },
+    "heading": {
+      "x": 20,
+      "y": -115.96875,
+      "width": 350,
+      "height": 40.109375,
+      "top": -115.96875,
+      "right": 370,
+      "bottom": -75.859375,
+      "left": 20
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 72,
+      "top": 0,
+      "right": 390,
+      "bottom": 72,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": -18.734600067138672,
+        "y": -37.859375,
+        "width": 254.390625,
+        "height": 80.375,
+        "top": -37.859375,
+        "right": 235.65602493286133,
+        "bottom": 42.515625,
+        "left": -18.734600067138672
+      },
+      {
+        "x": 186.14085388183594,
+        "y": 142.515625,
+        "width": 222.59376525878906,
+        "height": 79,
+        "top": 142.515625,
+        "right": 408.734619140625,
+        "bottom": 221.515625,
+        "left": 186.14085388183594
+      }
+    ],
+    "packet": {
+      "x": 231.40194702148438,
+      "y": 76.10972595214844,
+      "width": 30,
+      "height": 32,
+      "top": 76.10972595214844,
+      "right": 261.4019470214844,
+      "bottom": 108.10972595214844,
+      "left": 231.40194702148438
+    },
+    "resultOpacity": 1,
+    "width": 390,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "mobile",
+    "index": 2,
+    "expectedStep": 0,
+    "activity": "Quotes",
+    "step": "A quote is waiting for a reply",
+    "chapter": "Quotes",
+    "stage": {
+      "x": 20,
+      "y": 564.609375,
+      "width": 350,
+      "height": 325,
+      "top": 564.609375,
+      "right": 370,
+      "bottom": 889.609375,
+      "left": 20
+    },
+    "heading": {
+      "x": 20,
+      "y": 504.5,
+      "width": 350,
+      "height": 40.109375,
+      "top": 504.5,
+      "right": 370,
+      "bottom": 544.609375,
+      "left": 20
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 72,
+      "top": 0,
+      "right": 390,
+      "bottom": 72,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 41.87070083618164,
+        "y": 582.609375,
+        "width": 254.390625,
+        "height": 80.375,
+        "top": 582.609375,
+        "right": 296.26132583618164,
+        "bottom": 662.984375,
+        "left": 41.87070083618164
+      },
+      {
+        "x": 166.40625,
+        "y": 762.984375,
+        "width": 222.59375,
+        "height": 80.375,
+        "top": 762.984375,
+        "right": 389,
+        "bottom": 843.359375,
+        "left": 166.40625
+      }
+    ],
+    "packet": {
+      "x": 170.62155151367188,
+      "y": 632.5991821289062,
+      "width": 30,
+      "height": 32,
+      "top": 632.5991821289062,
+      "right": 200.62155151367188,
+      "bottom": 664.5991821289062,
+      "left": 170.62155151367188
+    },
+    "resultOpacity": 0,
+    "width": 390,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "mobile",
+    "index": 2,
+    "expectedStep": 2,
+    "activity": "Quotes",
+    "step": "A follow-up is prepared",
+    "chapter": "Quotes",
+    "stage": {
+      "x": 20,
+      "y": 252.609375,
+      "width": 350,
+      "height": 325,
+      "top": 252.609375,
+      "right": 370,
+      "bottom": 577.609375,
+      "left": 20
+    },
+    "heading": {
+      "x": 20,
+      "y": 192.5,
+      "width": 350,
+      "height": 40.109375,
+      "top": 192.5,
+      "right": 370,
+      "bottom": 232.609375,
+      "left": 20
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 72,
+      "top": 0,
+      "right": 390,
+      "bottom": 72,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 36,
+        "y": 270.609375,
+        "width": 254.390625,
+        "height": 80.375,
+        "top": 270.609375,
+        "right": 290.390625,
+        "bottom": 350.984375,
+        "left": 36
+      },
+      {
+        "x": 134.416259765625,
+        "y": 450.984375,
+        "width": 222.59375,
+        "height": 79,
+        "top": 450.984375,
+        "right": 357.010009765625,
+        "bottom": 529.984375,
+        "left": 134.416259765625
+      }
+    ],
+    "packet": {
+      "x": 200.9825439453125,
+      "y": 352.55816650390625,
+      "width": 30,
+      "height": 32,
+      "top": 352.55816650390625,
+      "right": 230.9825439453125,
+      "bottom": 384.55816650390625,
+      "left": 200.9825439453125
+    },
+    "resultOpacity": 0,
+    "width": 390,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "mobile",
+    "index": 2,
+    "expectedStep": 4,
+    "activity": "Quotes",
+    "step": "The next action is saved",
+    "chapter": "Quotes",
+    "stage": {
+      "x": 20,
+      "y": -60.390625,
+      "width": 350,
+      "height": 325,
+      "top": -60.390625,
+      "right": 370,
+      "bottom": 264.609375,
+      "left": 20
+    },
+    "heading": {
+      "x": 20,
+      "y": -120.5,
+      "width": 350,
+      "height": 40.109375,
+      "top": -120.5,
+      "right": 370,
+      "bottom": -80.390625,
+      "left": 20
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 72,
+      "top": 0,
+      "right": 390,
+      "bottom": 72,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": -19,
+        "y": -42.390625,
+        "width": 254.390625,
+        "height": 80.375,
+        "top": -42.390625,
+        "right": 235.390625,
+        "bottom": 37.984375,
+        "left": -19
+      },
+      {
+        "x": 186.40625,
+        "y": 137.984375,
+        "width": 222.59375,
+        "height": 79,
+        "top": 137.984375,
+        "right": 409,
+        "bottom": 216.984375,
+        "left": 186.40625
+      }
+    ],
+    "packet": {
+      "x": 231.44094848632812,
+      "y": 71.61956787109375,
+      "width": 30,
+      "height": 32,
+      "top": 71.61956787109375,
+      "right": 261.4409484863281,
+      "bottom": 103.61956787109375,
+      "left": 231.44094848632812
+    },
+    "resultOpacity": 1,
+    "width": 390,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "mobile",
+    "index": 3,
+    "expectedStep": 0,
+    "activity": "Orders",
+    "step": "A repeat order is placed",
+    "chapter": "Orders",
+    "stage": {
+      "x": 20,
+      "y": 565.9375,
+      "width": 350,
+      "height": 325,
+      "top": 565.9375,
+      "right": 370,
+      "bottom": 890.9375,
+      "left": 20
+    },
+    "heading": {
+      "x": 20,
+      "y": 505.828125,
+      "width": 350,
+      "height": 40.109375,
+      "top": 505.828125,
+      "right": 370,
+      "bottom": 545.9375,
+      "left": 20
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 72,
+      "top": 0,
+      "right": 390,
+      "bottom": 72,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 42.058799743652344,
+        "y": 583.9375,
+        "width": 254.390625,
+        "height": 80.375,
+        "top": 583.9375,
+        "right": 296.44942474365234,
+        "bottom": 664.3125,
+        "left": 42.058799743652344
+      },
+      {
+        "x": 166.40625,
+        "y": 764.3125,
+        "width": 222.59375,
+        "height": 79,
+        "top": 764.3125,
+        "right": 389,
+        "bottom": 843.3125,
+        "left": 166.40625
+      }
+    ],
+    "packet": {
+      "x": 170.57244873046875,
+      "y": 633.8756103515625,
+      "width": 30,
+      "height": 32,
+      "top": 633.8756103515625,
+      "right": 200.57244873046875,
+      "bottom": 665.8756103515625,
+      "left": 170.57244873046875
+    },
+    "resultOpacity": 0,
+    "width": 390,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "mobile",
+    "index": 3,
+    "expectedStep": 2,
+    "activity": "Orders",
+    "step": "Your team receives the task",
+    "chapter": "Orders",
+    "stage": {
+      "x": 20,
+      "y": 254.9375,
+      "width": 350,
+      "height": 325,
+      "top": 254.9375,
+      "right": 370,
+      "bottom": 579.9375,
+      "left": 20
+    },
+    "heading": {
+      "x": 20,
+      "y": 194.828125,
+      "width": 350,
+      "height": 40.109375,
+      "top": 194.828125,
+      "right": 370,
+      "bottom": 234.9375,
+      "left": 20
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 72,
+      "top": 0,
+      "right": 390,
+      "bottom": 72,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 36,
+        "y": 272.9375,
+        "width": 254.390625,
+        "height": 80.375,
+        "top": 272.9375,
+        "right": 290.390625,
+        "bottom": 353.3125,
+        "left": 36
+      },
+      {
+        "x": 134.3229522705078,
+        "y": 453.3125,
+        "width": 222.59373474121094,
+        "height": 79,
+        "top": 453.3125,
+        "right": 356.91668701171875,
+        "bottom": 532.3125,
+        "left": 134.3229522705078
+      }
+    ],
+    "packet": {
+      "x": 201.03125,
+      "y": 354.9375,
+      "width": 30,
+      "height": 32,
+      "top": 354.9375,
+      "right": 231.03125,
+      "bottom": 386.9375,
+      "left": 201.03125
+    },
+    "resultOpacity": 0,
+    "width": 390,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "mobile",
+    "index": 3,
+    "expectedStep": 4,
+    "activity": "Orders",
+    "step": "Order progress is visible",
+    "chapter": "Orders",
+    "stage": {
+      "x": 20,
+      "y": -56.0625,
+      "width": 350,
+      "height": 325,
+      "top": -56.0625,
+      "right": 370,
+      "bottom": 268.9375,
+      "left": 20
+    },
+    "heading": {
+      "x": 20,
+      "y": -116.171875,
+      "width": 350,
+      "height": 40.109375,
+      "top": -116.171875,
+      "right": 370,
+      "bottom": -76.0625,
+      "left": 20
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 72,
+      "top": 0,
+      "right": 390,
+      "bottom": 72,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": -19,
+        "y": -38.0625,
+        "width": 254.390625,
+        "height": 80.375,
+        "top": -38.0625,
+        "right": 235.390625,
+        "bottom": 42.3125,
+        "left": -19
+      },
+      {
+        "x": 186.40625,
+        "y": 142.3125,
+        "width": 222.59375,
+        "height": 79,
+        "top": 142.3125,
+        "right": 409,
+        "bottom": 221.3125,
+        "left": 186.40625
+      }
+    ],
+    "packet": {
+      "x": 231.49005126953125,
+      "y": 75.99940490722656,
+      "width": 30,
+      "height": 32,
+      "top": 75.99940490722656,
+      "right": 261.49005126953125,
+      "bottom": 107.99940490722656,
+      "left": 231.49005126953125
+    },
+    "resultOpacity": 1,
+    "width": 390,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "mobile",
+    "index": 4,
+    "expectedStep": 0,
+    "activity": "Customer updates",
+    "step": "A customer asks for an update",
+    "chapter": "Customer updates",
+    "stage": {
+      "x": 20,
+      "y": 565.40625,
+      "width": 350,
+      "height": 325,
+      "top": 565.40625,
+      "right": 370,
+      "bottom": 890.40625,
+      "left": 20
+    },
+    "heading": {
+      "x": 20,
+      "y": 505.296875,
+      "width": 350,
+      "height": 40.109375,
+      "top": 505.296875,
+      "right": 370,
+      "bottom": 545.40625,
+      "left": 20
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 72,
+      "top": 0,
+      "right": 390,
+      "bottom": 72,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 41.90789794921875,
+        "y": 583.40625,
+        "width": 254.390625,
+        "height": 80.375,
+        "top": 583.40625,
+        "right": 296.29852294921875,
+        "bottom": 663.78125,
+        "left": 41.90789794921875
+      },
+      {
+        "x": 166.40625,
+        "y": 763.78125,
+        "width": 222.59375,
+        "height": 79,
+        "top": 763.78125,
+        "right": 389,
+        "bottom": 842.78125,
+        "left": 166.40625
+      }
+    ],
+    "packet": {
+      "x": 170.61184692382812,
+      "y": 633.3857421875,
+      "width": 30,
+      "height": 32,
+      "top": 633.3857421875,
+      "right": 200.61184692382812,
+      "bottom": 665.3857421875,
+      "left": 170.61184692382812
+    },
+    "resultOpacity": 0,
+    "width": 390,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "mobile",
+    "index": 4,
+    "expectedStep": 2,
+    "activity": "Customer updates",
+    "step": "An answer is prepared",
+    "chapter": "Customer updates",
+    "stage": {
+      "x": 20,
+      "y": 252.40625,
+      "width": 350,
+      "height": 325,
+      "top": 252.40625,
+      "right": 370,
+      "bottom": 577.40625,
+      "left": 20
+    },
+    "heading": {
+      "x": 20,
+      "y": 192.296875,
+      "width": 350,
+      "height": 40.109375,
+      "top": 192.296875,
+      "right": 370,
+      "bottom": 232.40625,
+      "left": 20
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 72,
+      "top": 0,
+      "right": 390,
+      "bottom": 72,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 36,
+        "y": 270.40625,
+        "width": 254.390625,
+        "height": 80.375,
+        "top": 270.40625,
+        "right": 290.390625,
+        "bottom": 350.78125,
+        "left": 36
+      },
+      {
+        "x": 134.3229522705078,
+        "y": 450.78125,
+        "width": 222.59373474121094,
+        "height": 79,
+        "top": 450.78125,
+        "right": 356.91668701171875,
+        "bottom": 529.78125,
+        "left": 134.3229522705078
+      }
+    ],
+    "packet": {
+      "x": 201.03125,
+      "y": 352.40625,
+      "width": 30,
+      "height": 32,
+      "top": 352.40625,
+      "right": 231.03125,
+      "bottom": 384.40625,
+      "left": 201.03125
+    },
+    "resultOpacity": 0,
+    "width": 390,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "mobile",
+    "index": 4,
+    "expectedStep": 4,
+    "activity": "Customer updates",
+    "step": "The conversation is saved",
+    "chapter": "Customer updates",
+    "stage": {
+      "x": 20,
+      "y": -59.59375,
+      "width": 350,
+      "height": 325,
+      "top": -59.59375,
+      "right": 370,
+      "bottom": 265.40625,
+      "left": 20
+    },
+    "heading": {
+      "x": 20,
+      "y": -119.703125,
+      "width": 350,
+      "height": 40.109375,
+      "top": -119.703125,
+      "right": 370,
+      "bottom": -79.59375,
+      "left": 20
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 72,
+      "top": 0,
+      "right": 390,
+      "bottom": 72,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": -18.29669952392578,
+        "y": -41.59375,
+        "width": 254.390625,
+        "height": 80.375,
+        "top": -41.59375,
+        "right": 236.09392547607422,
+        "bottom": 38.78125,
+        "left": -18.29669952392578
+      },
+      {
+        "x": 185.70294189453125,
+        "y": 138.78125,
+        "width": 222.59375,
+        "height": 79,
+        "top": 138.78125,
+        "right": 408.29669189453125,
+        "bottom": 217.78125,
+        "left": 185.70294189453125
+      }
+    ],
+    "packet": {
+      "x": 231.35354614257812,
+      "y": 72.32444763183594,
+      "width": 30,
+      "height": 32,
+      "top": 72.32444763183594,
+      "right": 261.3535461425781,
+      "bottom": 104.32444763183594,
+      "left": 231.35354614257812
+    },
+    "resultOpacity": 1,
+    "width": 390,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "mobile",
+    "index": 5,
+    "expectedStep": 0,
+    "activity": "Follow-ups",
+    "step": "A follow-up becomes due",
+    "chapter": "Follow-ups",
+    "stage": {
+      "x": 20,
+      "y": 564.734375,
+      "width": 350,
+      "height": 325,
+      "top": 564.734375,
+      "right": 370,
+      "bottom": 889.734375,
+      "left": 20
+    },
+    "heading": {
+      "x": 20,
+      "y": 504.625,
+      "width": 350,
+      "height": 40.109375,
+      "top": 504.625,
+      "right": 370,
+      "bottom": 544.734375,
+      "left": 20
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 72,
+      "top": 0,
+      "right": 390,
+      "bottom": 72,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 41.87070083618164,
+        "y": 582.734375,
+        "width": 254.390625,
+        "height": 80.375,
+        "top": 582.734375,
+        "right": 296.26132583618164,
+        "bottom": 663.109375,
+        "left": 41.87070083618164
+      },
+      {
+        "x": 166.40625,
+        "y": 763.109375,
+        "width": 222.59375,
+        "height": 79,
+        "top": 763.109375,
+        "right": 389,
+        "bottom": 842.109375,
+        "left": 166.40625
+      }
+    ],
+    "packet": {
+      "x": 170.62155151367188,
+      "y": 632.7241821289062,
+      "width": 30,
+      "height": 32,
+      "top": 632.7241821289062,
+      "right": 200.62155151367188,
+      "bottom": 664.7241821289062,
+      "left": 170.62155151367188
+    },
+    "resultOpacity": 0,
+    "width": 390,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "mobile",
+    "index": 5,
+    "expectedStep": 2,
+    "activity": "Follow-ups",
+    "step": "A message is prepared",
+    "chapter": "Follow-ups",
+    "stage": {
+      "x": 20,
+      "y": 252.734375,
+      "width": 350,
+      "height": 325,
+      "top": 252.734375,
+      "right": 370,
+      "bottom": 577.734375,
+      "left": 20
+    },
+    "heading": {
+      "x": 20,
+      "y": 192.625,
+      "width": 350,
+      "height": 40.109375,
+      "top": 192.625,
+      "right": 370,
+      "bottom": 232.734375,
+      "left": 20
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 72,
+      "top": 0,
+      "right": 390,
+      "bottom": 72,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 36,
+        "y": 270.734375,
+        "width": 254.390625,
+        "height": 80.375,
+        "top": 270.734375,
+        "right": 290.390625,
+        "bottom": 351.109375,
+        "left": 36
+      },
+      {
+        "x": 134.416259765625,
+        "y": 451.109375,
+        "width": 222.59375,
+        "height": 79,
+        "top": 451.109375,
+        "right": 357.010009765625,
+        "bottom": 530.109375,
+        "left": 134.416259765625
+      }
+    ],
+    "packet": {
+      "x": 200.9825439453125,
+      "y": 352.68316650390625,
+      "width": 30,
+      "height": 32,
+      "top": 352.68316650390625,
+      "right": 230.9825439453125,
+      "bottom": 384.68316650390625,
+      "left": 200.9825439453125
+    },
+    "resultOpacity": 0,
+    "width": 390,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "mobile",
+    "index": 5,
+    "expectedStep": 4,
+    "activity": "Follow-ups",
+    "step": "The next step is recorded",
+    "chapter": "Follow-ups",
+    "stage": {
+      "x": 20,
+      "y": -60.265625,
+      "width": 350,
+      "height": 325,
+      "top": -60.265625,
+      "right": 370,
+      "bottom": 264.734375,
+      "left": 20
+    },
+    "heading": {
+      "x": 20,
+      "y": -120.375,
+      "width": 350,
+      "height": 40.109375,
+      "top": -120.375,
+      "right": 370,
+      "bottom": -80.265625,
+      "left": 20
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 72,
+      "top": 0,
+      "right": 390,
+      "bottom": 72,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": -19,
+        "y": -42.265625,
+        "width": 254.390625,
+        "height": 80.375,
+        "top": -42.265625,
+        "right": 235.390625,
+        "bottom": 38.109375,
+        "left": -19
+      },
+      {
+        "x": 186.40625,
+        "y": 138.109375,
+        "width": 222.59375,
+        "height": 79,
+        "top": 138.109375,
+        "right": 409,
+        "bottom": 217.109375,
+        "left": 186.40625
+      }
+    ],
+    "packet": {
+      "x": 231.44094848632812,
+      "y": 71.74456787109375,
+      "width": 30,
+      "height": 32,
+      "top": 71.74456787109375,
+      "right": 261.4409484863281,
+      "bottom": 103.74456787109375,
+      "left": 231.44094848632812
+    },
+    "resultOpacity": 1,
+    "width": 390,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "mobile",
+    "index": 6,
+    "expectedStep": 0,
+    "activity": "Payments",
+    "step": "An invoice is nearly due",
+    "chapter": "Payments",
+    "stage": {
+      "x": 20,
+      "y": 565.0625,
+      "width": 350,
+      "height": 325,
+      "top": 565.0625,
+      "right": 370,
+      "bottom": 890.0625,
+      "left": 20
+    },
+    "heading": {
+      "x": 20,
+      "y": 504.953125,
+      "width": 350,
+      "height": 40.109375,
+      "top": 504.953125,
+      "right": 370,
+      "bottom": 545.0625,
+      "left": 20
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 72,
+      "top": 0,
+      "right": 390,
+      "bottom": 72,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 41.87070083618164,
+        "y": 583.0625,
+        "width": 254.390625,
+        "height": 72,
+        "top": 583.0625,
+        "right": 296.26132583618164,
+        "bottom": 655.0625,
+        "left": 41.87070083618164
+      },
+      {
+        "x": 166.40625,
+        "y": 755.0625,
+        "width": 222.59375,
+        "height": 79,
+        "top": 755.0625,
+        "right": 389,
+        "bottom": 834.0625,
+        "left": 166.40625
+      }
+    ],
+    "packet": {
+      "x": 170.62155151367188,
+      "y": 633.0523071289062,
+      "width": 30,
+      "height": 32,
+      "top": 633.0523071289062,
+      "right": 200.62155151367188,
+      "bottom": 665.0523071289062,
+      "left": 170.62155151367188
+    },
+    "resultOpacity": 0,
+    "width": 390,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "mobile",
+    "index": 6,
+    "expectedStep": 2,
+    "activity": "Payments",
+    "step": "A reminder is prepared",
+    "chapter": "Payments",
+    "stage": {
+      "x": 20,
+      "y": 252.0625,
+      "width": 350,
+      "height": 325,
+      "top": 252.0625,
+      "right": 370,
+      "bottom": 577.0625,
+      "left": 20
+    },
+    "heading": {
+      "x": 20,
+      "y": 191.953125,
+      "width": 350,
+      "height": 40.109375,
+      "top": 191.953125,
+      "right": 370,
+      "bottom": 232.0625,
+      "left": 20
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 72,
+      "top": 0,
+      "right": 390,
+      "bottom": 72,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 36,
+        "y": 270.0625,
+        "width": 254.390625,
+        "height": 72,
+        "top": 270.0625,
+        "right": 290.390625,
+        "bottom": 342.0625,
+        "left": 36
+      },
+      {
+        "x": 134.22955322265625,
+        "y": 442.0625,
+        "width": 222.59375,
+        "height": 79,
+        "top": 442.0625,
+        "right": 356.82330322265625,
+        "bottom": 521.0625,
+        "left": 134.22955322265625
+      }
+    ],
+    "packet": {
+      "x": 201.0799560546875,
+      "y": 352.11370849609375,
+      "width": 30,
+      "height": 32,
+      "top": 352.11370849609375,
+      "right": 231.0799560546875,
+      "bottom": 384.11370849609375,
+      "left": 201.0799560546875
+    },
+    "resultOpacity": 0,
+    "width": 390,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "mobile",
+    "index": 6,
+    "expectedStep": 4,
+    "activity": "Payments",
+    "step": "The record is updated",
+    "chapter": "Payments",
+    "stage": {
+      "x": 20,
+      "y": -59.9375,
+      "width": 350,
+      "height": 325,
+      "top": -59.9375,
+      "right": 370,
+      "bottom": 265.0625,
+      "left": 20
+    },
+    "heading": {
+      "x": 20,
+      "y": -120.046875,
+      "width": 350,
+      "height": 40.109375,
+      "top": -120.046875,
+      "right": 370,
+      "bottom": -79.9375,
+      "left": 20
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 72,
+      "top": 0,
+      "right": 390,
+      "bottom": 72,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": -19,
+        "y": -41.9375,
+        "width": 254.390625,
+        "height": 72,
+        "top": -41.9375,
+        "right": 235.390625,
+        "bottom": 30.0625,
+        "left": -19
+      },
+      {
+        "x": 186.40625,
+        "y": 130.0625,
+        "width": 222.59375,
+        "height": 79,
+        "top": 130.0625,
+        "right": 409,
+        "bottom": 209.0625,
+        "left": 186.40625
+      }
+    ],
+    "packet": {
+      "x": 231.44094848632812,
+      "y": 72.07269287109375,
+      "width": 30,
+      "height": 32,
+      "top": 72.07269287109375,
+      "right": 261.4409484863281,
+      "bottom": 104.07269287109375,
+      "left": 231.44094848632812
+    },
+    "resultOpacity": 1,
+    "width": 390,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "mobile",
+    "index": 7,
+    "expectedStep": 0,
+    "activity": "Reports",
+    "step": "Work is recorded",
+    "chapter": "Reports",
+    "stage": {
+      "x": 20,
+      "y": 565.390625,
+      "width": 350,
+      "height": 325,
+      "top": 565.390625,
+      "right": 370,
+      "bottom": 890.390625,
+      "left": 20
+    },
+    "heading": {
+      "x": 20,
+      "y": 505.28125,
+      "width": 350,
+      "height": 40.109375,
+      "top": 505.28125,
+      "right": 370,
+      "bottom": 545.390625,
+      "left": 20
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 72,
+      "top": 0,
+      "right": 390,
+      "bottom": 72,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 41.90789794921875,
+        "y": 583.390625,
+        "width": 254.390625,
+        "height": 80.375,
+        "top": 583.390625,
+        "right": 296.29852294921875,
+        "bottom": 663.765625,
+        "left": 41.90789794921875
+      },
+      {
+        "x": 166.40625,
+        "y": 763.765625,
+        "width": 222.59375,
+        "height": 79,
+        "top": 763.765625,
+        "right": 389,
+        "bottom": 842.765625,
+        "left": 166.40625
+      }
+    ],
+    "packet": {
+      "x": 170.61184692382812,
+      "y": 633.3701171875,
+      "width": 30,
+      "height": 32,
+      "top": 633.3701171875,
+      "right": 200.61184692382812,
+      "bottom": 665.3701171875,
+      "left": 170.61184692382812
+    },
+    "resultOpacity": 0,
+    "width": 390,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "mobile",
+    "index": 7,
+    "expectedStep": 2,
+    "activity": "Reports",
+    "step": "Completed work is shown",
+    "chapter": "Reports",
+    "stage": {
+      "x": 20,
+      "y": 252.390625,
+      "width": 350,
+      "height": 325,
+      "top": 252.390625,
+      "right": 370,
+      "bottom": 577.390625,
+      "left": 20
+    },
+    "heading": {
+      "x": 20,
+      "y": 192.28125,
+      "width": 350,
+      "height": 40.109375,
+      "top": 192.28125,
+      "right": 370,
+      "bottom": 232.390625,
+      "left": 20
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 72,
+      "top": 0,
+      "right": 390,
+      "bottom": 72,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": 36,
+        "y": 270.390625,
+        "width": 254.390625,
+        "height": 80.375,
+        "top": 270.390625,
+        "right": 290.390625,
+        "bottom": 350.765625,
+        "left": 36
+      },
+      {
+        "x": 134.3229522705078,
+        "y": 450.765625,
+        "width": 222.59373474121094,
+        "height": 79,
+        "top": 450.765625,
+        "right": 356.91668701171875,
+        "bottom": 529.765625,
+        "left": 134.3229522705078
+      }
+    ],
+    "packet": {
+      "x": 201.03125,
+      "y": 352.390625,
+      "width": 30,
+      "height": 32,
+      "top": 352.390625,
+      "right": 231.03125,
+      "bottom": 384.390625,
+      "left": 201.03125
+    },
+    "resultOpacity": 0,
+    "width": 390,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "mobile",
+    "index": 7,
+    "expectedStep": 4,
+    "activity": "Reports",
+    "step": "The next action is clear",
+    "chapter": "Reports",
+    "stage": {
+      "x": 20,
+      "y": -59.609375,
+      "width": 350,
+      "height": 325,
+      "top": -59.609375,
+      "right": 370,
+      "bottom": 265.390625,
+      "left": 20
+    },
+    "heading": {
+      "x": 20,
+      "y": -119.71875,
+      "width": 350,
+      "height": 40.109375,
+      "top": -119.71875,
+      "right": 370,
+      "bottom": -79.609375,
+      "left": 20
+    },
+    "nav": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 72,
+      "top": 0,
+      "right": 390,
+      "bottom": 72,
+      "left": 0
+    },
+    "floats": 2,
+    "floatRects": [
+      {
+        "x": -18.29669952392578,
+        "y": -41.609375,
+        "width": 254.390625,
+        "height": 80.375,
+        "top": -41.609375,
+        "right": 236.09392547607422,
+        "bottom": 38.765625,
+        "left": -18.29669952392578
+      },
+      {
+        "x": 185.70294189453125,
+        "y": 138.765625,
+        "width": 222.59375,
+        "height": 79,
+        "top": 138.765625,
+        "right": 408.29669189453125,
+        "bottom": 217.765625,
+        "left": 185.70294189453125
+      }
+    ],
+    "packet": {
+      "x": 231.35354614257812,
+      "y": 72.30882263183594,
+      "width": 30,
+      "height": 32,
+      "top": 72.30882263183594,
+      "right": 261.3535461425781,
+      "bottom": 104.30882263183594,
+      "left": 231.35354614257812
+    },
+    "resultOpacity": 1,
+    "width": 390,
+    "missingAssets": [],
+    "overlap": false
+  },
+  {
+    "device": "mobile",
+    "check": "menu open",
+    "visible": true
+  },
+  {
+    "device": "mobile",
+    "check": "menu route",
+    "pathname": "/about"
+  },
+  {
+    "device": "mobile",
+    "check": "reduced motion after change",
+    "activity": "Orders",
+    "panels": 2,
+    "motion": true
+  },
+  {
+    "device": "mobile",
+    "check": "browser errors",
+    "errors": [
+      "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED",
+      "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+    ],
+    "failedRequests": [
+      {
+        "url": "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap",
+        "error": "net::ERR_NETWORK_ACCESS_DENIED"
+      },
+      {
+        "url": "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap",
+        "error": "net::ERR_NETWORK_ACCESS_DENIED"
+      }
+    ]
+  }
+]

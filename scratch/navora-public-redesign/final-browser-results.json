@@ -1,0 +1,282 @@
+[
+  {
+    "device": "desktop",
+    "route": "/",
+    "status": 200,
+    "metrics": {
+      "text": 2443,
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "missing": [],
+      "title": "Navora — Intelligent Business Systems"
+    },
+    "errors": [],
+    "failed": [],
+    "menu": "n/a"
+  },
+  {
+    "device": "desktop",
+    "route": "/solutions",
+    "status": 200,
+    "metrics": {
+      "text": 2888,
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "missing": [],
+      "title": "Navora — Intelligent Business Systems"
+    },
+    "errors": [],
+    "failed": [],
+    "menu": "n/a"
+  },
+  {
+    "device": "desktop",
+    "route": "/industries",
+    "status": 200,
+    "metrics": {
+      "text": 1846,
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "missing": [],
+      "title": "Navora — Intelligent Business Systems"
+    },
+    "errors": [],
+    "failed": [],
+    "menu": "n/a"
+  },
+  {
+    "device": "desktop",
+    "route": "/how-it-works",
+    "status": 200,
+    "metrics": {
+      "text": 1660,
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "missing": [],
+      "title": "Navora — Intelligent Business Systems"
+    },
+    "errors": [],
+    "failed": [],
+    "menu": "n/a"
+  },
+  {
+    "device": "desktop",
+    "route": "/about",
+    "status": 200,
+    "metrics": {
+      "text": 2233,
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "missing": [],
+      "title": "Navora — Intelligent Business Systems"
+    },
+    "errors": [],
+    "failed": [],
+    "menu": "n/a"
+  },
+  {
+    "device": "desktop",
+    "route": "/contact",
+    "status": 200,
+    "metrics": {
+      "text": 1376,
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "missing": [],
+      "title": "Navora — Intelligent Business Systems"
+    },
+    "errors": [],
+    "failed": [],
+    "menu": "n/a"
+  },
+  {
+    "device": "desktop",
+    "route": "/privacy",
+    "status": 200,
+    "metrics": {
+      "text": 2466,
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "missing": [],
+      "title": "Navora — Intelligent Business Systems"
+    },
+    "errors": [],
+    "failed": [],
+    "menu": "n/a"
+  },
+  {
+    "device": "desktop",
+    "route": "/terms",
+    "status": 200,
+    "metrics": {
+      "text": 2441,
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "missing": [],
+      "title": "Navora — Intelligent Business Systems"
+    },
+    "errors": [],
+    "failed": [],
+    "menu": "n/a"
+  },
+  {
+    "device": "mobile",
+    "route": "/",
+    "status": 200,
+    "metrics": {
+      "text": 2155,
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "missing": [],
+      "title": "Navora — Intelligent Business Systems"
+    },
+    "errors": [],
+    "failed": [],
+    "menu": {
+      "open": true,
+      "visible": true,
+      "z": "auto",
+      "closed": true
+    }
+  },
+  {
+    "device": "mobile",
+    "route": "/solutions",
+    "status": 200,
+    "metrics": {
+      "text": 2803,
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "missing": [],
+      "title": "Navora — Intelligent Business Systems"
+    },
+    "errors": [],
+    "failed": [],
+    "menu": {
+      "open": true,
+      "visible": true,
+      "z": "auto",
+      "closed": true
+    }
+  },
+  {
+    "device": "mobile",
+    "route": "/industries",
+    "status": 200,
+    "metrics": {
+      "text": 1775,
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "missing": [],
+      "title": "Navora — Intelligent Business Systems"
+    },
+    "errors": [],
+    "failed": [],
+    "menu": {
+      "open": true,
+      "visible": true,
+      "z": "auto",
+      "closed": true
+    }
+  },
+  {
+    "device": "mobile",
+    "route": "/how-it-works",
+    "status": 200,
+    "metrics": {
+      "text": 1575,
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "missing": [],
+      "title": "Navora — Intelligent Business Systems"
+    },
+    "errors": [],
+    "failed": [],
+    "menu": {
+      "open": true,
+      "visible": true,
+      "z": "auto",
+      "closed": true
+    }
+  },
+  {
+    "device": "mobile",
+    "route": "/about",
+    "status": 200,
+    "metrics": {
+      "text": 2162,
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "missing": [],
+      "title": "Navora — Intelligent Business Systems"
+    },
+    "errors": [],
+    "failed": [],
+    "menu": {
+      "open": true,
+      "visible": true,
+      "z": "auto",
+      "closed": true
+    }
+  },
+  {
+    "device": "mobile",
+    "route": "/contact",
+    "status": 200,
+    "metrics": {
+      "text": 1305,
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "missing": [],
+      "title": "Navora — Intelligent Business Systems"
+    },
+    "errors": [],
+    "failed": [],
+    "menu": {
+      "open": true,
+      "visible": true,
+      "z": "auto",
+      "closed": true
+    }
+  },
+  {
+    "device": "mobile",
+    "route": "/privacy",
+    "status": 200,
+    "metrics": {
+      "text": 2395,
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "missing": [],
+      "title": "Navora — Intelligent Business Systems"
+    },
+    "errors": [],
+    "failed": [],
+    "menu": {
+      "open": true,
+      "visible": true,
+      "z": "auto",
+      "closed": true
+    }
+  },
+  {
+    "device": "mobile",
+    "route": "/terms",
+    "status": 200,
+    "metrics": {
+      "text": 2370,
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "missing": [],
+      "title": "Navora — Intelligent Business Systems"
+    },
+    "errors": [],
+    "failed": [],
+    "menu": {
+      "open": true,
+      "visible": true,
+      "z": "auto",
+      "closed": true
+    }
+  }
+]

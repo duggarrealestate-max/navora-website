@@ -1,0 +1,23 @@
+{
+  "error": "locator.scrollIntoViewIfNeeded: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#stage-0')\u001b[22m\n\n    at C:\\Users\\chib4\\ai-business-factory\\scratch\\navora-subpages\\interaction-audit.cjs:42:53",
+  "partial": {
+    "desktop": {
+      "scenarios": 8,
+      "approvalPaths": 8,
+      "escalationPaths": 8,
+      "scannerConfigurations": 90,
+      "principles": 6,
+      "productionStages": [
+        "01\nUnderstand",
+        "02\nMap",
+        "03\nDesign",
+        "04\nBuild",
+        "05\nConnect",
+        "06\nLaunch",
+        "07\nImprove"
+      ],
+      "form": "empty, invalid, loading, success, reset passed",
+      "errors": []
+    }
+  }
+}

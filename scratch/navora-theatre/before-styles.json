@@ -1,0 +1,42 @@
+[
+  {
+    "name": "home",
+    "device": "desktop",
+    "styles": {
+      "font": "Inter, system-ui, sans-serif",
+      "size": "60px",
+      "color": "rgb(241, 240, 233)",
+      "width": 518.65625
+    }
+  },
+  {
+    "name": "solutions",
+    "device": "desktop",
+    "styles": {
+      "font": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif",
+      "size": "49.68px",
+      "color": "rgb(241, 240, 233)",
+      "width": 706.796875
+    }
+  },
+  {
+    "name": "home",
+    "device": "mobile",
+    "styles": {
+      "font": "Inter, system-ui, sans-serif",
+      "size": "38px",
+      "color": "rgb(241, 240, 233)",
+      "width": 342
+    }
+  },
+  {
+    "name": "solutions",
+    "device": "mobile",
+    "styles": {
+      "font": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif",
+      "size": "34px",
+      "color": "rgb(241, 240, 233)",
+      "width": 350
+    }
+  }
+]

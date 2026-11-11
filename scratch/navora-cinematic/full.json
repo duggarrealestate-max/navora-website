@@ -1,0 +1,171 @@
+[
+  {
+    "rotation": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "phases": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "outcomes": [
+      {
+        "scenario": 0,
+        "phase": 6,
+        "text": "ENQ-1042\nComplete\n\nOutcome recorded\n\nEnquiry qualified. Sales owner notified. Next step prepared.\n\nSales enquiry\n✓",
+        "opacity": 1
+      },
+      {
+        "scenario": 1,
+        "phase": 6,
+        "text": "ORD-2086\nComplete\n\nOutcome recorded\n\nAvailable stock reserved. Exception assigned. Customer updated.\n\nTrade order\n✓",
+        "opacity": 1
+      },
+      {
+        "scenario": 2,
+        "phase": 6,
+        "text": "APT-0318\nComplete\n\nOutcome recorded\n\nAlternative slot offered. Calendar hold recorded. Confirmation awaits customer.\n\nAppointment booking\n✓",
+        "opacity": 1
+      },
+      {
+        "scenario": 3,
+        "phase": 6,
+        "text": "SUP-0724\nComplete\n\nOutcome recorded\n\nSupport request routed. Guidance delivered. Customer notified.\n\nCustomer support\n✓",
+        "opacity": 1
+      },
+      {
+        "scenario": 4,
+        "phase": 6,
+        "text": "INV-0912\nComplete\n\nOutcome recorded\n\nReminder held. Dispute assigned. Accounting record updated.\n\nPayment reminder\n✓",
+        "opacity": 1
+      },
+      {
+        "scenario": 5,
+        "phase": 6,
+        "text": "DEL-0461\nComplete\n\nOutcome recorded\n\nRecovery owner assigned. Courier request prepared. Customer updated.\n\nDelivery exception\n✓",
+        "opacity": 0.9993
+      }
+    ],
+    "exceptions": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "device": "desktop",
+    "scenes": [
+      {
+        "scene": "0",
+        "phase": "1",
+        "width": 1440,
+        "panelCopyOverlap": false,
+        "panels": 1
+      },
+      {
+        "scene": "1",
+        "phase": "2",
+        "width": 1440,
+        "panelCopyOverlap": false,
+        "panels": 1
+      },
+      {
+        "scene": "2",
+        "phase": "3",
+        "width": 1440,
+        "panelCopyOverlap": false,
+        "panels": 1
+      },
+      {
+        "scene": "3",
+        "phase": "3",
+        "width": 1440,
+        "panelCopyOverlap": false,
+        "panels": 1
+      },
+      {
+        "scene": "4",
+        "phase": "5",
+        "width": 1440,
+        "panelCopyOverlap": false,
+        "panels": 1
+      },
+      {
+        "scene": "5",
+        "phase": "6",
+        "width": 1440,
+        "panelCopyOverlap": false,
+        "panels": 1
+      }
+    ],
+    "keyboard": true,
+    "cta": "/contact",
+    "errors": [],
+    "failed": [],
+    "reduced": true
+  },
+  {
+    "device": "mobile",
+    "scenes": [
+      {
+        "scene": "0",
+        "phase": "1",
+        "width": 390,
+        "panelCopyOverlap": false,
+        "panels": 1
+      },
+      {
+        "scene": "1",
+        "phase": "1",
+        "width": 390,
+        "panelCopyOverlap": false,
+        "panels": 1
+      },
+      {
+        "scene": "2",
+        "phase": "2",
+        "width": 390,
+        "panelCopyOverlap": false,
+        "panels": 1
+      },
+      {
+        "scene": "3",
+        "phase": "3",
+        "width": 390,
+        "panelCopyOverlap": false,
+        "panels": 1
+      },
+      {
+        "scene": "4",
+        "phase": "5",
+        "width": 390,
+        "panelCopyOverlap": false,
+        "panels": 1
+      },
+      {
+        "scene": "5",
+        "phase": "6",
+        "width": 390,
+        "panelCopyOverlap": false,
+        "panels": 1
+      }
+    ],
+    "keyboard": true,
+    "cta": "/contact",
+    "errors": [],
+    "failed": [],
+    "reduced": true
+  }
+]

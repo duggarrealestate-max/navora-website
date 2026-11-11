@@ -1,0 +1,22 @@
+{
+  "changed": [
+    "src/public/pages/AboutPage.tsx",
+    "src/public/pages/ContactPage.tsx",
+    "src/public/pages/HowItWorksPage.tsx",
+    "src/public/pages/IndustriesPage.tsx",
+    "src/public/pages/NotFoundPage.tsx",
+    "src/public/pages/PrivacyPage.tsx",
+    "src/public/pages/SolutionsPage.tsx",
+    "src/public/pages/TermsPage.tsx"
+  ],
+  "added": [
+    "src/public/components/system/industryFlows.ts",
+    "src/public/components/system/LegalReader.tsx",
+    "src/public/components/system/OrchestrationEngine.tsx",
+    "src/public/components/system/scenarios.ts",
+    "src/public/components/system/SystemExperience.tsx",
+    "src/public/styles/system-experience.css"
+  ],
+  "protectedChanged": [],
+  "homepageAndSharedShellUnchanged": true
+}

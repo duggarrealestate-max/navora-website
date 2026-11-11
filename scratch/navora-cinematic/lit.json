@@ -1,0 +1,16 @@
+[
+  {
+    "device": "desktop",
+    "errors": [],
+    "failed": [],
+    "width": 1440,
+    "phase": "0"
+  },
+  {
+    "device": "mobile",
+    "errors": [],
+    "failed": [],
+    "width": 390,
+    "phase": "0"
+  }
+]

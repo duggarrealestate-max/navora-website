@@ -1,0 +1,694 @@
+[
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\global.d.ts",
+        "Hash":  "2FBD500F414DB60937CAE2666690FE7146B52F48B0940A99C4878526B4914324"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\main.tsx",
+        "Hash":  "BD5C3AB234CA5030B756D4CA47571CCD2CD7E573E3C9406F918D5D8DB1ADE4F4"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\react-app.d.ts",
+        "Hash":  "34B6B9A426C2F116AAD67841ED9FA0AB885A901BD180BC514306CEBC5428BFED"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\app\\App.tsx",
+        "Hash":  "210BCC909D4B91DA047284127793E96AC51F5293F755B4A55D06A6E806A3D17B"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\app\\providers\\DemoContext.tsx",
+        "Hash":  "0C5A19E9326F4AADF0418D8290369FE4AE8325F9DA2E8AFE6130EB6E381B507B"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\app\\providers\\index.ts",
+        "Hash":  "4A46F9B4DBE3A51254C66B993430026D77FC313D0F005B3DBB70FCBE89F91B24"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\app\\providers\\ProviderContext.tsx",
+        "Hash":  "F07ECA42621E725CA94E8D5AA693A7A8E43255084DC45F4431D6ECAF8D1A5342"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\app\\providers\\ProviderRegistry.ts",
+        "Hash":  "2A1858B6F443C90F6BA2C3E514DD9F83B81C3C21EC1AC1450052FA969BD7E55E"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\app\\providers\\VerticalRegistry.ts",
+        "Hash":  "F4E7E8FB9FAFA12A9C7D9CF8DD518015AE5C2D071B81BBC9B940752D353F8946"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\demo\\adapters\\DemoAccountingProvider.tsx",
+        "Hash":  "541CDD6D64D5EA4326DB762F65B02761229E28F24F825FE13B30BAB21E337DF4"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\demo\\adapters\\DemoAIProvider.tsx",
+        "Hash":  "444A93AEC2BD8620979190B518535F7BB196F7C0FF29AE5489A892A56AA714A4"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\demo\\adapters\\DemoAuthProvider.tsx",
+        "Hash":  "33F6BD7B8947FA814C05CF00EE78089A55E2DC31AD569939EEB5C9FDAEA41F5F"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\demo\\adapters\\DemoDeliveryProvider.tsx",
+        "Hash":  "3DBD0EF0007FC86E5A3FE0E8560B5281AA36778DDB736B9DC9A5E531BDD7A46F"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\demo\\adapters\\DemoMessagingProvider.tsx",
+        "Hash":  "FAC255CEC48B3FCD800C24E63CA75FC12C6EE43A7A63DFBAE9378E24EEA37B9C"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\demo\\adapters\\DemoPaymentProvider.tsx",
+        "Hash":  "CC9490D8A8FCDB5C57A184F1D665E2B906D0CE9C82CC00F7C425F0C47AA3E5DF"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\demo\\data\\index.ts",
+        "Hash":  "6EE9BE4AB56A9A56AEA3C5277BECD1D6CAF3DED2E008EC66C47BF5BAA556E083"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\demo\\data\\nav.ts",
+        "Hash":  "81DEE4945165FDDF1CB7ED7CF1B74801F4ABCC1A5EF8EB3C8708CA6F6CEC57CD"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\demo\\data\\seed.ts",
+        "Hash":  "B7640CD00B11AD9CECB31689959DE3AB3B778A17610E71269B1775B9D64CF5AC"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\demo\\data\\service.ts",
+        "Hash":  "965E79841773289900D5ECEF5F431256C9956C5C8035367AF1FEB087D7A875E2"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\demo\\entities\\activities.ts",
+        "Hash":  "928EBB64491C75E650DA3C8A83C7EB4CB03E9D962B54E549369F0D53B7C527A4"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\demo\\entities\\all.ts",
+        "Hash":  "8540F2F9267CD557A34525DCA70C2979D9DF5E5351DA614594A446D9583DEA54"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\demo\\entities\\customers.ts",
+        "Hash":  "91FF57DCB217FE9F780CB95B7DADF07997AF32D4DCF4DE9AEACAF0DDBDF5B56D"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\demo\\entities\\index.ts",
+        "Hash":  "A8C915649EF211F280E0D92FB528F6F91BFD35145EA0572C1FB8A4FDF3780E0F"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\demo\\entities\\orders.ts",
+        "Hash":  "C1356056FFB315824BCEF8365B0E759C0B7BD3FC949520331177D86DA9FC3C93"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\demo\\entities\\products.ts",
+        "Hash":  "E27CDBC2D64CEF6B7798DA068D61C802806E716995DCAB224C4432917E66A976"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\demo\\entities\\workflows.ts",
+        "Hash":  "B6D813CF292BF2D673D1AE721F74E38E9917745546DE32825CBF03E94B6CB5D5"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\charts\\BarChart.tsx",
+        "Hash":  "59DA243760ADA196DB573B47A8A8238E01AF26194E92968E1D86CF9DDDFD4B90"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\charts\\DonutChart.tsx",
+        "Hash":  "A29E4353EB859E00F3BCA28E47501E4252789CD9D1DD40D31D64A07AB92EBE36"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\charts\\index.ts",
+        "Hash":  "FDF90A01C9E72597E05503BF7AADDD5FB83192DE82B27C752B31819C56DAE13A"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\charts\\LineChart.tsx",
+        "Hash":  "EBF9FA4BCA327590FC0C4C2100391FE33929240BCAB0F524F499A233671E1843"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\components\\Badge.tsx",
+        "Hash":  "6A97AD9255F5E13F76BEE928BF611F9CCF7B3726E37208D67E9385AF0C54DC5D"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\components\\Button.tsx",
+        "Hash":  "2A7BC9A06DC2631EA35771AAAD6BD519590DBBCEA6C3E8A33B8533169F2DD263"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\components\\Card.tsx",
+        "Hash":  "BD9D2890D690EC8FB6326B37384BA94317DFE2135D487BA83643A6AB46B2DB16"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\components\\Drawer.tsx",
+        "Hash":  "3DBF81106C080B1F86BAE11659219EF2392414BBE37B14DD4B3DC7220672B7DA"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\components\\Icon.tsx",
+        "Hash":  "EEF17CE3F422287BA81081281694ACC324CC7D66DCD3B942516CCF251CB3DD63"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\components\\index.ts",
+        "Hash":  "155F5AAA85C2F4990F85C02180E16BD714DDEAF27E56F0244B272A4CD3E24C5A"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\components\\Input.tsx",
+        "Hash":  "30F03785259D4D42B892A4CCFC3502A86FACD39EEAD76889609CEFD6928ED30D"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\components\\KPI.tsx",
+        "Hash":  "6CB6D9B5DB0C0D8B7C5EFA6F363B85F38A3A9A1F2F7C4036E50B674C13832250"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\components\\Modal.tsx",
+        "Hash":  "8558F9DC484D4C31B328ACBC59159A83AB7537FB6079B0279EA61F2BCC457EB9"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\components\\Progress.tsx",
+        "Hash":  "F03128CE343FBAE76708D64C12242979C5DABBA660068A081A6C56F2CD222559"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\components\\Search.tsx",
+        "Hash":  "D237C6FF2E8E134D8FCB263AA138328F2F7FDEB42C84334FC218622B436AF6EA"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\components\\Select.tsx",
+        "Hash":  "00AECB2C64C19EB0685D130FEC89D97F3F6FC76C63D5FC99CCB94E6AEDF4013A"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\components\\States.tsx",
+        "Hash":  "2B481A41DC04F8A8F6615F45B0D752E9D84EDF72A9EE3DE8897659A625872427"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\components\\Table.tsx",
+        "Hash":  "2DC4CAC9CA3A06EAE14D0AF4467143FCAE72892F209CD274690D03CD9A78DBDF"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\components\\Tabs.tsx",
+        "Hash":  "23F48590F46D0511E83C8204966608529FC4F704DA35DB93C2C689AE8C186332"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\components\\utils.ts",
+        "Hash":  "C0AF17ADFB5E37B227483FEB34CCFC9106A3019672FF801351FD996588E234C5"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\hooks\\useClickOutside.ts",
+        "Hash":  "FBC40027C3EE5819D2140F062D1FBAFC77DE9341D83BFD8BCD34A2F1347ADD75"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\hooks\\useMediaQuery.ts",
+        "Hash":  "7DAB114A89A65D83B9D0762A0FCCD24B0F262CF4591AE4811CEC4F3697E1D487"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\layout\\AppShell.tsx",
+        "Hash":  "305AD499FB5669E1B2324220595DDB99A167888F59CCA318E2C772B441038455"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\layout\\Header.tsx",
+        "Hash":  "58B46848CEBB8E861CC74D152AABBFDE62FF00213EEA94164DC44AA1187D31D8"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\layout\\index.ts",
+        "Hash":  "4E328566C3C2B918B9EBF2B89B59F6DAED0FF38FE10F28CB7CAC6D9586B1CAE9"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\layout\\Sidebar.tsx",
+        "Hash":  "5751B3AFD95E5A4582FFED2116B887637BE114D43608F8BB73CAD725E6A59FAC"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\layout\\Topbar.tsx",
+        "Hash":  "F1DB7918A1343C46413E65146AAF441937C1FB71346C299C7F41E98400B229D6"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\tokens\\index.ts",
+        "Hash":  "4B969346559D4ECEF80B6B59D74E7ACCC615CD5A3EEB658CA288265995B1D97B"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\tokens\\theme.css",
+        "Hash":  "29E5B9B09C86AD8101577A04BE798E04D708C7083C7CECB22F24D88915D6895C"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\tokens\\theme.ts",
+        "Hash":  "EFCF38836CEC0E579C229D3E783E791E0C345C3ED595C5416F698C54F3EC7211"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\design\\tokens\\utils.ts",
+        "Hash":  "C0AF17ADFB5E37B227483FEB34CCFC9106A3019672FF801351FD996588E234C5"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\discovery\\components\\BlueprintResult.tsx",
+        "Hash":  "F9862E081CE053CA21331B551C1B43E53D0ED3DCFB36CB489DF6944EDAE41AAA"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\discovery\\components\\DiscoveryForm.tsx",
+        "Hash":  "2B7BD87B4AE2EE5B4B93EDFFF4A3FBFC2773D32A7B739177F938B901E4A75CCF"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\discovery\\components\\InternalReport.tsx",
+        "Hash":  "F09C1EE7D081CC64FF6DF67FF76837F07220AABC7C14A4F3C01A056419FE9D3B"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\discovery\\data\\example-business.ts",
+        "Hash":  "5D14DD37E624056178C17B084EBBF3594C05D7ECD119770CA61D159928AA7306"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\discovery\\data\\questionnaire.ts",
+        "Hash":  "0E56BCD813E458ADEED0A6E69044933CD4E46558DD6A7B8D9D44E6F22F4B011A"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\discovery\\engine\\assessment.ts",
+        "Hash":  "1F77FD815586B8FE79AA337A4EA8CE8366F47C9BF6AC575E90D7BEDFB4A1CBC8"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\discovery\\pages\\DiscoveryPage.tsx",
+        "Hash":  "3A49546D929DED5CE5C62308E595CCD52FD29B12D1FA5CB5EF5395FFA3D05693"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\discovery\\pages\\index.ts",
+        "Hash":  "80BD5B04F96D6EF189ECFD3A406EAA4C5089061CB36C5B3D19FF302D30DB3DE4"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\discovery\\storage\\repository.ts",
+        "Hash":  "88BE390A5E56EE11414F8E6AC79A1F4C60EA0807244F1210822B7E7C94F80615"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\discovery\\types\\index.ts",
+        "Hash":  "9B8DE1CB92E0C3B9980556D4250507855EB0C6F2922248CB9BF83302158718AA"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\retailer\\components\\DemoModeSwitch.tsx",
+        "Hash":  "AED7E40EDE30D802ADA4010650E8AC97AD09D3A9D0BC60E79280DCC819B3369D"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\retailer\\components\\RetailerContext.tsx",
+        "Hash":  "3D3EC747154B5A83C2DFE2F291A69FB35C2412F856E20479D78A52C6CB931179"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\retailer\\components\\RetailerShell.tsx",
+        "Hash":  "903658BF91F817119FBA66D95419B60D0D146A94C0E2459298AD9C44E2428210"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\retailer\\data\\retailer-demo.ts",
+        "Hash":  "85AD4D89EEA156211E55AAAE87C7A39BFD3B6077DB8E919583E1FC06C206086D"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\retailer\\engine\\ai-assistant.ts",
+        "Hash":  "61762F5EA89AD6B1A15A730CBB389B9849DDDB01B718A51A0775CEABF5DB125E"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\retailer\\engine\\pricing.ts",
+        "Hash":  "B12B392FCAEE5D05131A5E20514ADB65CC8488F8551F43D392DF49CD167846AE"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\retailer\\pages\\AccountPage.tsx",
+        "Hash":  "AAAAA9DF593ED27284F43F8C7DBC62EFE2542B78C56F3A2185B56AA32C100BB0"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\retailer\\pages\\AIAssistantPage.tsx",
+        "Hash":  "02EDB1F21E6C1B367C684B8C671AFB6B111F5FD4C68F542A0DA0C1ED566B16FB"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\retailer\\pages\\CartPage.tsx",
+        "Hash":  "2DD04580FE0E9141F299E22268977144419673E484818423ABA133ECC38A5DA1"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\retailer\\pages\\CataloguePage.tsx",
+        "Hash":  "EDD0831B05EF0B8934B9EDAF8E7D3FC8EA6561187B44DE4C695D1E542CBE713F"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\retailer\\pages\\CreditPage.tsx",
+        "Hash":  "A61BBB1C53F0F12E32D3D7EDF7CDB0437DF3EC24E844A8D523507FE7ECF4324E"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\retailer\\pages\\index.ts",
+        "Hash":  "D586D2A1554E5EF60DCB586945F0F36580D465DEDD8BE18E6184F842437D0993"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\retailer\\pages\\InvoicesPage.tsx",
+        "Hash":  "2995098C92C9F8DED4565CD67920CE5D3C0F57E3FCAB2822DBE0DCD2F41DED08"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\retailer\\pages\\OrderDetailPage.tsx",
+        "Hash":  "7ECBCC4544D2F2F31604BF66EC7236BB882CC1596DFC6A1E2032B4D5A980F080"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\retailer\\pages\\OrdersPage.tsx",
+        "Hash":  "2CE577D539DFF72F424775EDA346BC2E83EA87C3857462F59077F8AA079704BE"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\retailer\\pages\\ProductDetailPage.tsx",
+        "Hash":  "2B974969651F12F2E94F3DF0047A0701C557F88E567AD634C7528A8908501557"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\retailer\\pages\\QuickOrderPage.tsx",
+        "Hash":  "95B7E21F52BF815967D0C242151ADBCF307DE6AFA24BD272F53C9BCB2632F287"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\retailer\\pages\\RetailerHome.tsx",
+        "Hash":  "DE5F3B51EBC4AE17CF9A598C41E5D656C946E11A8814BA83582279DCA51C1B79"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\retailer\\pages\\RetailerPage.tsx",
+        "Hash":  "EA1DD0ADE1F44951B9C2D2ECE0DD743D4579AC9FA414E8EA8922EA6B4AB36D57"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\retailer\\pages\\SavedListsPage.tsx",
+        "Hash":  "4CA0FF1B88BC1F0E9F9CBBE233503009588D770135682EFF99BB4962BB70B6C2"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\retailer\\storage\\repository.ts",
+        "Hash":  "360023321424260868B52CFD640E69191ABA03568033535FD5055E2DE79F865C"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\features\\retailer\\types\\index.ts",
+        "Hash":  "3A3239B21420F85E722E9BBC3D4022CBFEF0F2DBCCCE2FAB1B8C816BDE026113"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\integrations\\accounting\\AccountingProvider.ts",
+        "Hash":  "32167C4FAAA167A99172CD027B341F8CB7FB421DB8B7206A43DEF1ED773744BA"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\integrations\\accounting\\index.ts",
+        "Hash":  "6CCC7D3436B6104F63352C3A96092FE4DAFD4C3A754D1930F6C90BA1A6A34353"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\integrations\\ai\\AIProvider.ts",
+        "Hash":  "E8A9C383531F3A8057BB4FA7D217ABC70A173B5415812F283B2BEE7794F40606"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\integrations\\ai\\index.ts",
+        "Hash":  "167FD7B91E566DED95423A7C77A9367C038EE6726D5E584FD5B4194B067C68E3"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\integrations\\auth\\AuthProvider.ts",
+        "Hash":  "C4747CAA9D62A642A723C841C9F17851C000418D33959FC2B61F3A1B83D055CC"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\integrations\\auth\\index.ts",
+        "Hash":  "5B92988D94B78A94CE5394598889FAD997BA582F142FCA7FDA53158F701ED7B8"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\integrations\\delivery\\DeliveryProvider.ts",
+        "Hash":  "A6E49FF7DB55753E108F6BFC3CB232136AC08E8B3D0E08E37EE0C671733EF19B"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\integrations\\delivery\\index.ts",
+        "Hash":  "A90B376BFF25A220B6DA99903C9CB96E42B28600FF334A1F914D11211652F02E"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\integrations\\messaging\\index.ts",
+        "Hash":  "FB64C8CE9A4E0543389DAC8E1FD08A757B82982D5F6804DF160C030ED6B1FD5A"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\integrations\\messaging\\MessagingProvider.ts",
+        "Hash":  "54BD0BF7D74440EF1F0A00AF3BE7DB09B89024A4600EBB0D82709D6C8B555B8D"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\integrations\\payments\\index.ts",
+        "Hash":  "A42F8DD38B4AA0BE99FA81BFBD7B7476886076C70D49F9FE5600ABB70DD62E1E"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\integrations\\payments\\PaymentProvider.ts",
+        "Hash":  "59E50BC67E3C9CF3584FFB627BF6D06CACF16D9608573DC375C57451C68E1C65"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\SceneErrorBoundary.tsx",
+        "Hash":  "8CD2EE0297B433CC95EF5C72EE711AF8984AF08E9AB89DA4CEA7A1CE931667C7"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\ScrollDirector.tsx",
+        "Hash":  "1145B98B154B8E8DEF7FF119B40809AD1D09ACBF98E5D808932C4D9906E1DAAB"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\automation\\WorkJourney.tsx",
+        "Hash":  "A107EDC55022895E9DD7F827B7EB23EE6A6E35688AD26FDB1CE4B426FD7EBCC7"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\sections\\AIZone.tsx",
+        "Hash":  "1A6CC52BF3A3B6B24F3833DDF77B1C35F1AF213602FC2A1E07D47D310275ADD5"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\sections\\AutomationZone.tsx",
+        "Hash":  "9E3EDBB5194F98DB8C752E69EADACF7104FE4CF1194D2814DA64FBEA2DDED7BD"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\sections\\CommunicationZone.tsx",
+        "Hash":  "2024829E84AE4673D9F5AF0F44EC69CBA9104EC32C18F303AECB32FF65D65E0C"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\sections\\ConnectedSystemZone.tsx",
+        "Hash":  "C37ECABDC90BFB91BD084B7EBDC71007169D3FDF7939E7A5869AD3386852C68E"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\sections\\CRMZone.tsx",
+        "Hash":  "8A0929B67B95841618434DAE69EE8AF348DAB1DF3A3A45EB122E2130DA166C40"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\sections\\DashboardZone.tsx",
+        "Hash":  "D4C45028BB860C24953FCF5AAADA14683FA0D5A9C6957DEBE4053B569BE1D89A"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\sections\\FinalCTA.tsx",
+        "Hash":  "1B682A28AAD8D79612CF5765BC91413475E04FFB373A40907C99C527868F21F8"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\sections\\HeroSection.tsx",
+        "Hash":  "6903F8329BD0975A92B72550F90228DF7D9C324E11ED2BE5208942897B2E6993"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\sections\\HomeWorkStage.tsx",
+        "Hash":  "4367DCF2BFCB0FB7D49E027EBB63230B5A2E47A7917175D83386060C50FC45EE"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\sections\\ServiceZone.tsx",
+        "Hash":  "70BCC4765D15FC4DA131C1F1758BE66FA3C5233083EB5617F9E3CCE41053C039"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\sections\\WebDesignZone.tsx",
+        "Hash":  "C12D2C3B4C4CB48BCE0A949473CB6A0C414EC47CE7D1D668D2B4E3A22FC586BA"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\system\\industryFlows.ts",
+        "Hash":  "A5B969B15F8678CEDBB781E717448899A1D4F84E9CBA1B179C3BE40C2DBC6549"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\system\\LegalReader.tsx",
+        "Hash":  "9E6D79C651112003FB289D2AF3840FA8B7918A6C133581AD7C831D4CD18319BE"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\system\\OrchestrationEngine.tsx",
+        "Hash":  "B429C73CAF5751E1199FC91F127369C86B0274B4FA93C6F1885D7293D0FE391A"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\system\\scenarios.ts",
+        "Hash":  "100012C777B01125B2B868E0AB47F16EDCDDF90D03E1CD3D74E0AB07EFCF4EBD"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\system\\SystemExperience.tsx",
+        "Hash":  "32B85C6D63135167E8B868F50B4D5A53B64A711AF34E66E99BC9555AF060A744"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\three\\Avatar3D.tsx",
+        "Hash":  "B40E48012073F28E68E958995749D0973ED403909E53D96771F53F1C182A6516"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\three\\CameraRig.tsx",
+        "Hash":  "ED814412A9D135C0D20658D8828DEAF807BDD2F90FCCE6FA554E9DA8394A5429"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\three\\HeroScene3D.tsx",
+        "Hash":  "BADBB283F9DF3FD57738442382ADEC9B4F4F5B1A817DC704471A96994EA6B392"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\three\\HomeScene.tsx",
+        "Hash":  "40496942033F5896D32C3DDFF07C054A795932922451259E9E2EDC5E3C26C23E"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\three\\World3D.tsx",
+        "Hash":  "3BB88D58A8773D769EF072B1327ED1C16C5CF736B53D864093E13AFA763BEE81"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\ui\\FloatingBrowserMockups.tsx",
+        "Hash":  "9E59E9BD4B95041D677331064C1D34060D2D0D8A501FD3C7CC4049FFFEB74CD7"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\ui\\FloatingInterface.tsx",
+        "Hash":  "8B7B054CFB578BD4577DBA4A6ECB04F8E337235C1DA56DE0BF5B76391BFB8E75"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\ui\\FloatingText.tsx",
+        "Hash":  "2C54C317E7C0EEE8E0422EC726997DDF8253663326A350F9F1F05E1E6755B6B8"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\ui\\PagePrimitives.tsx",
+        "Hash":  "C1D7C6FFE54DF06DFA2EE56339957DD1DEF9EA3174803F04FF362FF307861D7F"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\components\\ui\\PublicDesign.tsx",
+        "Hash":  "36E39185DD06319901B29BE72359AD2CE7FDD208B5C70B0A4BA85EEE6C715121"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\hooks\\useCapabilities.ts",
+        "Hash":  "A15BE02E3264F59A03B0BF17161A7952D45475A052864C960E271ADFD845E511"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\layouts\\PublicShell.tsx",
+        "Hash":  "B1D890D1FF5A952B0FEC29ACBFC8F77512589ACC4A50807B8CE2E6A91B90BFA1"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\pages\\AboutPage.tsx",
+        "Hash":  "7BD8CF5BEACF16B60C45B6D23065AAF986310647F2E26E0B75992A3F8DC29E92"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\pages\\AutomationTheatre.tsx",
+        "Hash":  "336AB5601B05ED2F75C67B52E0AE548618A7B80B442A939AC4864D51723DB1B5"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\pages\\ContactPage.tsx",
+        "Hash":  "998A422E206ADE08C091A7D2CB9705BF4B66FA000019A10AC6003380D03C6EEE"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\pages\\HowItWorksPage.tsx",
+        "Hash":  "2CEC38DFB21BDBC58910D8B434B604B6C25F713D9C77D5C771F4749085353AC8"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\pages\\IndustriesPage.tsx",
+        "Hash":  "E280DC6EF8BED17F4483FCC618D08BE3C041890006A3E6D723CCB265F499F227"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\pages\\LandingPage.tsx",
+        "Hash":  "234F29898244CFBB174233022D73CEDDA4305A264F529DBA329ACD90B13088B8"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\pages\\NotFoundPage.tsx",
+        "Hash":  "7A9DFCCC12B14502A17FBE88B61632616E2BE58A504BDF4DF5A54219ED0942CF"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\pages\\PrivacyPage.tsx",
+        "Hash":  "32FDFDAA7382A175506D11D8CACA2C53008136AB87C2D6EC3DCE3BE325F327D5"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\pages\\ProcessPage.tsx",
+        "Hash":  "53FCA0CC3BAE86E9342CFACBA0E5BB146CFA409E87108B9943360237D7549AF3"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\pages\\ServicesPage.tsx",
+        "Hash":  "C4955FB8634B4E56A802629A0A149DD4EF590EEB8C77A8FB58E6D7C7F807CBDA"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\pages\\SolutionsPage.tsx",
+        "Hash":  "2F548DF302243263EFF241C04E8C4129F6D2E870838CB754132BD7A24CA56DD0"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\pages\\TermsPage.tsx",
+        "Hash":  "7B25B7BF7B5FE3D68335DAAC566B369D601901EDB9CEC5DB8D01F16AD4F9CBA4"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\pages\\WorkPage.tsx",
+        "Hash":  "544DDA818BED862FFF8BC409A2F29373863D21A5DFBA1BA0640610BFC1730E75"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\services\\enquiry.ts",
+        "Hash":  "13256B1A01221DF1C902A2B1557D2FF6E8264BA8EBA5EB1969DB2895BA5CC8F3"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\styles\\automation-theatre.css",
+        "Hash":  "0843520FF02A7BDDC1390686565BB787A6C41325A4164A49AA3171FB608A56DE"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\styles\\navora.css",
+        "Hash":  "72E1C87673DE08AC9B6E03148141DA52A14C5409F7BB220093939E599F4D9820"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\styles\\solutions.css",
+        "Hash":  "54D35C67D05B673C70F343419913967CCFC83D701CA7706F18F30C4851889DE3"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\public\\styles\\system-experience.css",
+        "Hash":  "689B0CA830D48A38EE551E4FB92E175456833B56BE663B05B4B9AD11CEF36E28"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\shared\\types\\base.ts",
+        "Hash":  "7EABE32605043CDA262428352F50179730DF792418728A73A672D22A31C3AAC0"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\shared\\types\\industry.ts",
+        "Hash":  "FC12D3A9FE0A00F129DE22AF53A22403EC8C94C9F647DB230EE72EBC66EFA7C7"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\shared\\utils\\date.ts",
+        "Hash":  "4B2305FACF13456BF6C85149CFFC584816244150DC2B0DFE049A2999E93417F4"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\shared\\utils\\format.ts",
+        "Hash":  "EE13ADDAE603D83C761B2583BC275D7F52A076560886D5C856B86B37CAEB5411"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\types\\index.d.ts",
+        "Hash":  "6D9A70D8ACFBC296B7C12F88A2422B1ED902D9AFC16F9EBEC8A86A550CABA9B3"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\verticals\\wholesale\\components\\index.ts",
+        "Hash":  "D53D4D7D73D0AC6F59DD31F19DFFCF7E47C52444DC3B53A8949987CB51250218"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\verticals\\wholesale\\components\\WorkflowCanvas.tsx",
+        "Hash":  "6AC9474305ED5FBDA71FFEE7ABC98503B602A57162E711E9534DAC76CAEAB1A7"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\verticals\\wholesale\\pages\\AISalesAssistant.tsx",
+        "Hash":  "21954ABCD3B5F27C46E065A09A41315BC240A4EB86C95012B5A5E101B09177F0"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\verticals\\wholesale\\pages\\Analytics.tsx",
+        "Hash":  "1AC4278023FAAAC8999B433FE4151A528365E32F58F93498B2899523945778D9"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\verticals\\wholesale\\pages\\Automation.tsx",
+        "Hash":  "E53397E9B6C7092EA05F665A532820FC76593BD492B14BA3FE4F5BDF94757196"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\verticals\\wholesale\\pages\\CommandCentre.tsx",
+        "Hash":  "CF3B5DEF9EC62377B9A50185DD113A87326A2683AB78DD8F92DD6F7850B31675"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\verticals\\wholesale\\pages\\Commerce.tsx",
+        "Hash":  "DAD26A86E0B878AA1A3F5A8B9BB1BCBA282AD2FB178BB637A195099FD7451D86"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\verticals\\wholesale\\pages\\Customers.tsx",
+        "Hash":  "2AE5B2B13BBB9A370A233AA8C5AA4D29AA9FFAD198BD74B4A2E460887A97D8E4"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\verticals\\wholesale\\pages\\index.ts",
+        "Hash":  "76200A0C6AD841341FDC2235A502941735B88BDD77A3F8277D2D29850A2E47B2"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\verticals\\wholesale\\pages\\Integrations.tsx",
+        "Hash":  "0BAAC6FB3BA9A589F35C863BA1FCB49271AE28AB3001BC58C677863273275558"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\verticals\\wholesale\\pages\\Inventory.tsx",
+        "Hash":  "9205269B8B3C48FF9CB04579D0749CC8DAA0467B713BB6429592270BC4DD5B82"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\verticals\\wholesale\\pages\\Orders.tsx",
+        "Hash":  "049EC04648B9C4B358626B183DD5D7622B6FC774DD823BA6A7AD102CEA4A4480"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\verticals\\wholesale\\pages\\OwnerCoPilot.tsx",
+        "Hash":  "FDFDBE5D894F234B517C3DF19F1D9FC2BA7C5702110DE3EDA45148FB8163BBB2"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\verticals\\wholesale\\pages\\Retention.tsx",
+        "Hash":  "41987561F2C06D2104A8EC092CE9D46E1F6953AF5F72C6A98909C678D26D9B83"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\verticals\\wholesale\\pages\\Settings.tsx",
+        "Hash":  "4CACF6542CD6F065B356BF8B76EEAB947E434432076F9447A6D575C92D32372E"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\src\\verticals\\wholesale\\pages\\Team.tsx",
+        "Hash":  "3F6E324716F8F6DA349188B913A13797227E7B8DAA3C17F8175346178AD20633"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\public\\brand\\navora-logo.png",
+        "Hash":  "FA4244136CA12995A689E0D6F5A0DA8673A54C7A168D87481B1CD58E93CAE47E"
+    },
+    {
+        "Path":  "C:\\Users\\chib4\\ai-business-factory\\public\\models\\robot-guide.glb",
+        "Hash":  "047F5E5FB3BB6D378BD1DF16CA6137F2A596C99B3A1B5690B4020C05AAF6F319"
+    }
+]

@@ -1,0 +1,2 @@
+﻿import { ActionLink, Eyebrow, Reveal } from '@public/components/ui/PublicDesign';
+export function FinalCTA(){return <section id="final-cta" data-scroll-zone className="nv-home-final"><div className="nv-container"><Reveal className="nv-home-final-inner"><Eyebrow>The beginning of a new era.</Eyebrow><h2>What could your business<br />stop doing by hand?</h2><p>Show us the repeated task, the delayed reply or the update someone always has to chase. We will help identify a practical first step.</p><ActionLink>Find your first automation</ActionLink></Reveal></div></section>}

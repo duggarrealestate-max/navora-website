@@ -1,0 +1,239 @@
+{
+  "devices": [
+    {
+      "device": "desktop",
+      "cases": [
+        {
+          "scenario": "Sales enquiry",
+          "exception": false,
+          "approval": true,
+          "outcome": "Enquiry qualified. Brief assigned. Customer updated."
+        },
+        {
+          "scenario": "Sales enquiry",
+          "exception": true,
+          "approval": true,
+          "outcome": "Exception assigned to Sales team: Budget missing. Sales must confirm the scope. Original action stays held."
+        },
+        {
+          "scenario": "Trade order",
+          "exception": false,
+          "approval": false,
+          "outcome": "Order released. Stock reserved. Thursday delivery confirmed."
+        },
+        {
+          "scenario": "Trade order",
+          "exception": true,
+          "approval": true,
+          "outcome": "Exception assigned to Order operations: Only 18 cases available. Hold for a partial-shipment decision. Original action stays held."
+        },
+        {
+          "scenario": "Appointment booking",
+          "exception": false,
+          "approval": false,
+          "outcome": "Consultation booked. Calendar updated. Customer notified."
+        },
+        {
+          "scenario": "Appointment booking",
+          "exception": true,
+          "approval": true,
+          "outcome": "Exception assigned to Booking team: Requested slot occupied. Offer Tuesday 11:00 for review. Original action stays held."
+        },
+        {
+          "scenario": "Customer support",
+          "exception": false,
+          "approval": false,
+          "outcome": "Guidance delivered. Support record resolved."
+        },
+        {
+          "scenario": "Customer support",
+          "exception": true,
+          "approval": true,
+          "outcome": "Exception assigned to Billing support: Account verification failed. Do not share an invoice link. Original action stays held."
+        },
+        {
+          "scenario": "Payment reminder",
+          "exception": false,
+          "approval": true,
+          "outcome": "Reminder sent after approval. Contact recorded. Follow-up scheduled."
+        },
+        {
+          "scenario": "Payment reminder",
+          "exception": true,
+          "approval": true,
+          "outcome": "Exception assigned to Finance team: Invoice disputed. Suspend reminders for finance review. Original action stays held."
+        },
+        {
+          "scenario": "Delivery exception",
+          "exception": false,
+          "approval": true,
+          "outcome": "Recovery approved. Redelivery requested. Customer updated."
+        },
+        {
+          "scenario": "Delivery exception",
+          "exception": true,
+          "approval": true,
+          "outcome": "Exception assigned to Delivery operations: Address incomplete. Escalate for verified instructions. Original action stays held."
+        }
+      ],
+      "errors": [
+        "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+      ],
+      "width": 1440,
+      "pause": true,
+      "keyboard": true,
+      "reducedMotion": true
+    },
+    {
+      "device": "mobile",
+      "cases": [
+        {
+          "scenario": "Sales enquiry",
+          "exception": false,
+          "approval": true,
+          "outcome": "Enquiry qualified. Brief assigned. Customer updated."
+        },
+        {
+          "scenario": "Sales enquiry",
+          "exception": true,
+          "approval": true,
+          "outcome": "Exception assigned to Sales team: Budget missing. Sales must confirm the scope. Original action stays held."
+        },
+        {
+          "scenario": "Trade order",
+          "exception": false,
+          "approval": false,
+          "outcome": "Order released. Stock reserved. Thursday delivery confirmed."
+        },
+        {
+          "scenario": "Trade order",
+          "exception": true,
+          "approval": true,
+          "outcome": "Exception assigned to Order operations: Only 18 cases available. Hold for a partial-shipment decision. Original action stays held."
+        },
+        {
+          "scenario": "Appointment booking",
+          "exception": false,
+          "approval": false,
+          "outcome": "Consultation booked. Calendar updated. Customer notified."
+        },
+        {
+          "scenario": "Appointment booking",
+          "exception": true,
+          "approval": true,
+          "outcome": "Exception assigned to Booking team: Requested slot occupied. Offer Tuesday 11:00 for review. Original action stays held."
+        },
+        {
+          "scenario": "Customer support",
+          "exception": false,
+          "approval": false,
+          "outcome": "Guidance delivered. Support record resolved."
+        },
+        {
+          "scenario": "Customer support",
+          "exception": true,
+          "approval": true,
+          "outcome": "Exception assigned to Billing support: Account verification failed. Do not share an invoice link. Original action stays held."
+        },
+        {
+          "scenario": "Payment reminder",
+          "exception": false,
+          "approval": true,
+          "outcome": "Reminder sent after approval. Contact recorded. Follow-up scheduled."
+        },
+        {
+          "scenario": "Payment reminder",
+          "exception": true,
+          "approval": true,
+          "outcome": "Exception assigned to Finance team: Invoice disputed. Suspend reminders for finance review. Original action stays held."
+        },
+        {
+          "scenario": "Delivery exception",
+          "exception": false,
+          "approval": true,
+          "outcome": "Recovery approved. Redelivery requested. Customer updated."
+        },
+        {
+          "scenario": "Delivery exception",
+          "exception": true,
+          "approval": true,
+          "outcome": "Exception assigned to Delivery operations: Address incomplete. Escalate for verified instructions. Original action stays held."
+        }
+      ],
+      "errors": [
+        "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+      ],
+      "width": 390,
+      "pause": true,
+      "keyboard": true,
+      "reducedMotion": true
+    }
+  ],
+  "routes": [
+    {
+      "route": "/command-centre",
+      "url": "http://127.0.0.1:51970/command-centre",
+      "heading": "Command Centre"
+    },
+    {
+      "route": "/retailer",
+      "url": "http://127.0.0.1:51970/retailer",
+      "heading": "Good morning, ABC Mobiles"
+    },
+    {
+      "route": "/discovery",
+      "url": "http://127.0.0.1:51970/discovery",
+      "heading": "TradePilot Business Discovery"
+    },
+    {
+      "route": "/services",
+      "url": "http://127.0.0.1:51970/solutions",
+      "heading": "See the work happen."
+    },
+    {
+      "route": "/work",
+      "url": "http://127.0.0.1:51970/industries",
+      "heading": "Different businesses.The same opportunity to simplify."
+    },
+    {
+      "route": "/process",
+      "url": "http://127.0.0.1:51970/how-it-works",
+      "heading": "A system takes shape.Around your business."
+    },
+    {
+      "route": "/industries",
+      "url": "http://127.0.0.1:51970/industries",
+      "heading": "Different businesses.The same opportunity to simplify."
+    },
+    {
+      "route": "/how-it-works",
+      "url": "http://127.0.0.1:51970/how-it-works",
+      "heading": "A system takes shape.Around your business."
+    },
+    {
+      "route": "/about",
+      "url": "http://127.0.0.1:51970/about",
+      "heading": "The beginningof a new era."
+    },
+    {
+      "route": "/contact",
+      "url": "http://127.0.0.1:51970/contact",
+      "heading": "Start with the work.We will find the next step."
+    },
+    {
+      "route": "/privacy",
+      "url": "http://127.0.0.1:51970/privacy",
+      "heading": "How we handle data"
+    },
+    {
+      "route": "/terms",
+      "url": "http://127.0.0.1:51970/terms",
+      "heading": "Website and service terms"
+    },
+    {
+      "route": "/navora-visual-qa-missing-route",
+      "url": "http://127.0.0.1:51970/navora-visual-qa-missing-route",
+      "heading": "A signal withouta destination."
+    }
+  ]
+}

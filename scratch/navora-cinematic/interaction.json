@@ -1,0 +1,73 @@
+{
+  "menu": true,
+  "restored": true,
+  "reducedStatic": true,
+  "lifecycle": [
+    {
+      "opacity": 0.8381,
+      "transform": "matrix3d(0.9999, 0, 0.0141262, 0, 0, 1, 0, 0, -0.0141262, 0, 0.9999, 0, 0, 3.5613, 0, 1)",
+      "status": "New enquiry received"
+    },
+    {
+      "opacity": 1,
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "status": "New enquiry received"
+    },
+    {
+      "opacity": 1,
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "status": "New enquiry received"
+    },
+    {
+      "opacity": 1,
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "status": "New enquiry received"
+    },
+    {
+      "opacity": 1,
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "status": "New enquiry received"
+    },
+    {
+      "opacity": 1,
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "status": "New enquiry received"
+    },
+    {
+      "opacity": 1,
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "status": "New enquiry received"
+    },
+    {
+      "opacity": 0.5413,
+      "transform": "matrix(0.9817, 0, 0, 0.9817, 0, -5.5039)",
+      "status": "New enquiry received"
+    },
+    {
+      "opacity": 0,
+      "transform": "matrix(0.96, 0, 0, 0.96, 0, -12)",
+      "status": "New enquiry received"
+    },
+    {
+      "opacity": 0.7141,
+      "transform": "matrix3d(0.999689, 0, 0.0249434, 0, 0, 1, 0, 0, -0.0249434, 0, 0.999689, 0, 0, 6.289, 0, 1)",
+      "status": "Intent detected"
+    },
+    {
+      "opacity": 0.98,
+      "transform": "matrix3d(0.999998, 0, 0.00174184, 0, 0, 1, 0, 0, -0.00174184, 0, 0.999998, 0, 0, 0.4391, 0, 1)",
+      "status": "Intent detected"
+    },
+    {
+      "opacity": 1,
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "status": "Intent detected"
+    },
+    {
+      "opacity": 1,
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "status": "Intent detected"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,20 @@
+import { useState } from 'react';
+import { SystemPage, SystemIntro, SystemClose, Signal } from '@public/components/system/SystemExperience';
+import { Reveal } from '@public/components/ui/PublicDesign';
+const principles = [
+ ['Understand first', 'See how work happens before suggesting a change. Ask what arrives, who decides and what gets repeated.', 'BUSINESS → UNDERSTANDING'],
+ ['Keep it practical', 'Solve one clear business problem. Reduce repeated tasks, make handovers clearer and help staff act.', 'FRICTION → USEFUL ACTION'],
+ ['People remain in control', 'Keep important decisions with your team. Make it clear when staff need to approve or help.', 'JUDGEMENT → HUMAN APPROVAL'],
+ ['Connect existing systems', 'Use the tools and information you already have where access and suitability allow.', 'EXISTING TOOLS → CONNECTED WORK'],
+ ['Build for growth', 'Start with one useful task. Learn from your team before adding more.', 'ONE WORKFLOW → NEXT IMPROVEMENT'],
+ ['Deliver honestly', 'Be clear about what works, what needs approval and what is only an example. Agree the work and responsibilities together.', 'CLEAR SCOPE → ACCOUNTABILITY'],
+];
+export default function AboutPage() {
+ const [active, setActive] = useState(0);
+ return <SystemPage><SystemIntro number="04" label="FOUNDER-LED / UNITED KINGDOM" title={<>A website should<br /><em>help your business work better.</em></>}>NAVORA was created to help businesses move beyond websites that only look good. We build ways to make everyday work easier too.</SystemIntro>
+ <section className="nv-container nx-founder-world"><div className="nx-founder-editorial"><p className="nx-label">A DIRECT FOUNDER RELATIONSHIP</p><h2>Vikrant Chib</h2><p className="nx-founder-location">Founder, NAVORA · United Kingdom</p><div className="nx-founder-statement"><p>A website can start a conversation. The real work begins with what happens next.</p><p>Someone needs to understand the request, find the information, make a decision and follow through. NAVORA is built around connecting those everyday steps.</p><p>You work directly with the founder to understand the problem, agree a practical scope and build in stages. The relationship stays close to the work.</p></div><div className="nx-founder-signature"><span>Vikrant Chib</span><small>Understand. Connect. Build.</small></div></div>
+ <div className="nx-core-world"><div className="nx-core-heading"><Signal>What guides our work</Signal><span className="nx-label">SELECT A PRINCIPLE</span></div><div className="nx-core-constellation"><svg viewBox="0 0 600 430" preserveAspectRatio="none" aria-hidden="true"><path d="M300 215 L135 55 L465 55 L540 215 L465 375 L135 375 L60 215 Z M300 215 L465 55 M300 215 L540 215 M300 215 L465 375 M300 215 L135 375 M300 215 L60 215" /></svg><div className="nx-intelligence-core" aria-hidden="true"><i style={{ transform: "rotate(" + (45 + active * 12) + "deg)" }} /><i style={{ transform: "rotate(" + (65 - active * 12) + "deg)" }} /><strong>N /</strong><small>BUSINESS<br />PEOPLE · OUTCOMES</small></div>{principles.map(([name], i) => <button key={name} className={'nx-principle-node nx-principle-' + i} aria-label={name} aria-pressed={active === i} onClick={() => setActive(i)}><span>0{i + 1}</span><strong>{name}</strong></button>)}</div><div className="nx-core-detail" aria-live="polite"><span className="nx-label">{principles[active][2]}</span><h3>{principles[active][0]}</h3><p>{principles[active][1]}</p></div></div></section>
+ <section className="nv-container nx-founder-bottom"><Reveal><p className="nx-label">THE PURPOSE / A BETTER WORKING DAY</p><h2>Everyday work should<br />be easier to manage.</h2></Reveal><Reveal><p>Less repeated administration. Clearer ownership. Customers who know what happens next.</p><p>We help with routine work and bring people in when judgement is needed. We agree what we can build before we start.</p><a className="nx-text-link" href="/how-it-works">See how we work ↗</a></Reveal></section><SystemClose title="Talk to the person building it." /></SystemPage>;
+}
+
+
