@@ -1,10 +1,31 @@
-export async function submitEnquiry(data: EnquiryData): Promise<EnquiryResponse> {
-  const apiBase = (
-    import.meta.env.VITE_NAVORA_API_BASE_URL ||
-    "https://navora-api-staging.onrender.com/api/v1"
-  ).replace(/\/$/, "");
+export interface EnquiryData {
+  fullName: string;
+  workEmail: string;
+  company: string;
+  businessType: string;
+  challenge: string;
+  consent: boolean;
+}
 
-  if (!data.fullName || !data.workEmail || !data.company || !data.consent) {
+export interface EnquiryResponse {
+  ok: boolean;
+  message?: string;
+}
+
+export type SubmissionState = "idle" | "loading" | "success" | "error";
+
+export async function submitEnquiry(
+  data: EnquiryData,
+): Promise<EnquiryResponse> {
+  const apiBase =
+    "https://navora-api-staging.onrender.com/api/v1";
+
+  if (
+    !data.fullName ||
+    !data.workEmail ||
+    !data.company ||
+    !data.consent
+  ) {
     return {
       ok: false,
       message: "Please fill in all required fields and accept consent.",
