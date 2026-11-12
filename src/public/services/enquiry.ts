@@ -33,7 +33,7 @@ export async function submitEnquiry(
   }
 
   try {
-    const response = await fetch(`${apiBase}/leads`, {
+    const response = await fetch(`${apiBase}/leads/`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -45,7 +45,7 @@ export async function submitEnquiry(
         message: [data.fullName, data.businessType, data.challenge]
           .filter(Boolean)
           .join(" — "),
-        source: "website",
+        utm_source: "navora",
       }),
     });
 
